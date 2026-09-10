@@ -1,0 +1,10 @@
+{
+  "trackedTags": [1663, 122, 492, 1716],
+  "horizonDays": 120,
+  "resultsPerCategory": 50,
+  "useSteamSpy": true,
+  "pinnedAppIds": [],
+  "storeThrottleMs": 1500,
+  "steamSpyThrottleMs": 1100,
+  "siteUrl": "https://waligug.github.io/steam-tracker/"
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Upcoming on Steam</title>
+<meta name="description" content="Upcoming Steam releases by genre, and which ones are climbing the wishlist charts.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap head">
+    <div>
+      <h1>Upcoming on Steam</h1>
+      <p class="sub" id="subtitle">Loading…</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </div>
+</header>
+
+<nav class="wrap tabs">
+  <button class="tab active" data-view="rising">Rising</button>
+  <button class="tab" data-view="calendar">Calendar</button>
+  <div class="spacer"></div>
+  <select id="tagFilter" aria-label="Filter by category"><option value="">All categories</option></select>
+</nav>
+
+<main class="wrap" id="main">
+  <div class="empty">Loading data…</div>
+</main>
+
+<footer class="wrap">
+  <p>
+    Rank = position in Steam's wishlist-ordered “Popular Upcoming” list for that category.
+    Steam publishes no wishlist counts, so movement is relative, not absolute.
+    Unreleased games have no player counts or reviews by definition.
+  </p>
+  <p>Snapshot taken daily. <a id="repoLink" href="https://github.com/waligug/steam-tracker">Source</a></p>
+</footer>
+
+<div id="drawer" class="drawer" hidden>
+  <div class="drawer-bg" data-close></div>
+  <aside class="drawer-panel" id="drawerPanel"></aside>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
