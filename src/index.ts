@@ -32,6 +32,7 @@ interface Config {
   horizonDays: number;          // how far ahead the site's calendar looks
   resultsPerCategory: number;   // rows captured per tag per snapshot
   useSteamSpy: boolean;         // third-party enrichment on/off
+  allowAdult: boolean;          // include adult-only titles in the charts
   pinnedAppIds: number[];       // pinned to the top of output and the site
   storeThrottleMs: number;      // min gap between store.steampowered.com hits
   steamSpyThrottleMs: number;   // min gap between steamspy.com hits
@@ -53,6 +54,7 @@ function defaultConfig(): Config {
     horizonDays: 120,
     resultsPerCategory: 50,
     useSteamSpy: true,
+    allowAdult: false,
     pinnedAppIds: [],
     storeThrottleMs: 1500,
     steamSpyThrottleMs: 1100,
@@ -201,6 +203,7 @@ interface Row {
   priceCents: number | null;
   priceText: string | null;
   tagIds: number[];
+  descIds: number[];
   capsule: string | null;
 }
 
@@ -258,6 +261,12 @@ function iso(y: number, mo: number, d: number): string {
   return dt.toISOString().slice(0, 10);
 }
 
+const ADULT_DESCIDS = [3, 4];
+
+function isAdult(r: Row): boolean {
+  return r.descIds.some((d) => ADULT_DESCIDS.includes(d));
+}
+
 function parseRows(html: string, startRank: number): Row[] {
   const rows: Row[] = [];
   const chunks = html.split(/(?=<a[^>]*class="[^"]*search_result_row)/);
@@ -273,6 +282,7 @@ function parseRows(html: string, startRank: number): Row[] {
     const priceMatch = chunk.match(/data-price-final="(\d+)"/);
     const priceTextMatch = chunk.match(/class="discount_final_price[^"]*"[^>]*>([\s\S]*?)<\/div>/);
     const imgMatch = chunk.match(/<img[^>]+src="([^"]+)"/);
+    const descMatch = chunk.match(/data-ds-descids="\[([\d,\s]*)\]"/);
 
     const releaseDateRaw = dateMatch ? decodeEntities(dateMatch[1].replace(/<[^>]*>/g, "")) : "";
 
@@ -286,6 +296,9 @@ function parseRows(html: string, startRank: number): Row[] {
       priceText: priceTextMatch ? decodeEntities(priceTextMatch[1].replace(/<[^>]*>/g, "")) : null,
       tagIds: tagMatch
         ? tagMatch[1].split(",").map((s) => parseInt(s.trim(), 10)).filter((n) => !isNaN(n))
+        : [],
+      descIds: descMatch
+        ? descMatch[1].split(",").map((x) => parseInt(x.trim(), 10)).filter((n) => !isNaN(n))
         : [],
       capsule: imgMatch ? imgMatch[1] : null,
     });
@@ -303,7 +316,8 @@ interface SearchResult {
 async function searchUpcoming(
   tagIds: number[],
   filter: "comingsoon" | "popularcomingsoon",
-  wanted: number
+  wanted: number,
+  allowAdult = false
 ): Promise<SearchResult> {
   const rows: Row[] = [];
   let totalCount = 0;
@@ -321,7 +335,6 @@ async function searchUpcoming(
       json: "1",
       category1: "998",           // Games only (excludes DLC, soundtracks, tools)
       filter,
-      ignore_preferences: "1",
     });
     if (filter === "comingsoon") params.set("sort_by", "Released_ASC");
     if (tagIds.length) params.set("tags", tagIds.join(","));
@@ -335,8 +348,9 @@ async function searchUpcoming(
     }
     totalCount = json.total_count ?? totalCount;
 
-    const batch = parseRows(json.results_html, start + 1);
-    if (batch.length === 0) {
+    const raw = parseRows(json.results_html, start + 1);
+    const batch = allowAdult ? raw : raw.filter((r) => !isAdult(r));
+    if (raw.length === 0) {
       // Distinguish "Valve changed the markup" from "genuinely out of results".
       if (json.results_html.includes("search_result_row")) {
         parseWarning = `[PARSE WARNING] extracted 0 rows from non-empty results_html at start=${start}`;
@@ -344,9 +358,11 @@ async function searchUpcoming(
       break;
     }
     rows.push(...batch);
-    if (batch.length < count) break;
+    if (raw.length < count) break;
   }
 
+  // Re-rank after filtering so ranks stay contiguous and comparable between days.
+  rows.forEach((r, i) => (r.rank = i + 1));
   return { rows, totalCount, parseWarning };
 }
 
@@ -409,7 +425,7 @@ async function takeSnapshot(cfg: Config, tagIds: number[]): Promise<{ snap: Snap
     const name = tagName(store, id);
     log(`Fetching ${name} (${id})...`);
     // Wishlist order is the only pre-release traction signal Steam exposes.
-    const res = await searchUpcoming([id], "popularcomingsoon", cfg.resultsPerCategory);
+    const res = await searchUpcoming([id], "popularcomingsoon", cfg.resultsPerCategory, cfg.allowAdult);
     if (res.parseWarning) warnings.push(`${name}: ${res.parseWarning}`);
     snap.categories[String(id)] = {
       tagName: name,
@@ -811,14 +827,17 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
     },
     {
       name: "set_categories",
-      description: "Set which tags/genres are tracked, the release horizon, and pinned games",
+      description: "Add or remove tracked tags/genres, set the release horizon, NSFW filtering, and pinned games",
       inputSchema: {
         type: "object",
         properties: {
-          tags: { type: "string", description: "Comma-separated tag names or IDs to track from now on." },
+          tags: { type: "string", description: "Comma-separated tag names or IDs — REPLACES the tracked list." },
+          addTags: { type: "string", description: "Comma-separated tag names or IDs to ADD to the tracked list, keeping the existing ones." },
+          removeTags: { type: "string", description: "Comma-separated tag names or IDs to stop tracking." },
           horizonDays: { type: "number", description: "How far ahead the site's calendar looks." },
           resultsPerCategory: { type: "number", description: "Rows captured per tag per snapshot. Default 50." },
           useSteamSpy: { type: "boolean", description: "Enable third-party SteamSpy enrichment." },
+          allowAdult: { type: "boolean", description: "Include adult-only titles. Default false — the broad-tag charts are otherwise swamped by them." },
           pinnedAppIds: { type: "string", description: "Comma-separated app IDs to pin to the top of output and the site." },
         },
       },
@@ -851,6 +870,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
           `Horizon:       ${cfg.horizonDays} days`,
           `Per category:  ${cfg.resultsPerCategory} games`,
           `SteamSpy:      ${cfg.useSteamSpy ? "on" : "off"}`,
+          `Adult titles:  ${cfg.allowAdult ? "included" : "filtered out"}`,
           `Pinned:        ${cfg.pinnedAppIds.join(", ") || "(none)"}`,
           "",
           `Snapshots:     ${files.length}`,
@@ -865,11 +885,31 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
 
       case "set_categories": {
         const changes: string[] = [];
+        const store0 = await loadTags();
+        const nameOf = (id: number) => `${tagName(store0, id)} (${id})`;
+
         if (a.tags !== undefined) {
           const { ids, unknown } = await resolveTags(String(a.tags));
-          if (ids.length) { cfg.trackedTags = ids; changes.push(`tags -> ${ids.join(", ")}`); }
+          if (ids.length) { cfg.trackedTags = ids; changes.push(`tracking only: ${ids.map(nameOf).join(", ")}`); }
           if (unknown.length) changes.push(`unrecognized (ignored): ${unknown.join(", ")}`);
         }
+        if (a.addTags !== undefined) {
+          const { ids, unknown } = await resolveTags(String(a.addTags));
+          const added = ids.filter((i) => !cfg.trackedTags.includes(i));
+          const dupes = ids.filter((i) => cfg.trackedTags.includes(i));
+          cfg.trackedTags = [...cfg.trackedTags, ...added];
+          if (added.length) changes.push(`added: ${added.map(nameOf).join(", ")}`);
+          if (dupes.length) changes.push(`already tracked: ${dupes.map(nameOf).join(", ")}`);
+          if (unknown.length) changes.push(`unrecognized (ignored): ${unknown.join(", ")} — try list_tags`);
+        }
+        if (a.removeTags !== undefined) {
+          const { ids, unknown } = await resolveTags(String(a.removeTags));
+          const gone = ids.filter((i) => cfg.trackedTags.includes(i));
+          cfg.trackedTags = cfg.trackedTags.filter((i) => !ids.includes(i));
+          if (gone.length) changes.push(`removed: ${gone.map(nameOf).join(", ")}`);
+          if (unknown.length) changes.push(`unrecognized (ignored): ${unknown.join(", ")}`);
+        }
+        if (a.allowAdult !== undefined) { cfg.allowAdult = a.allowAdult as boolean; changes.push(`allowAdult -> ${cfg.allowAdult}`); }
         if (a.horizonDays !== undefined) { cfg.horizonDays = a.horizonDays as number; changes.push(`horizonDays -> ${cfg.horizonDays}`); }
         if (a.resultsPerCategory !== undefined) { cfg.resultsPerCategory = a.resultsPerCategory as number; changes.push(`resultsPerCategory -> ${cfg.resultsPerCategory}`); }
         if (a.useSteamSpy !== undefined) { cfg.useSteamSpy = a.useSteamSpy as boolean; changes.push(`useSteamSpy -> ${cfg.useSteamSpy}`); }
@@ -917,7 +957,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
 
         // Ask for extra rows when filtering by date, since many get dropped.
         const want = withinDays ? Math.min(200, limit * 4) : limit;
-        const res = await searchUpcoming(ids, filter as any, want);
+        const res = await searchUpcoming(ids, filter as any, want, cfg.allowAdult);
 
         if (!res.rows.length) {
           const msg = res.parseWarning
@@ -1035,7 +1075,7 @@ server.setRequestHandler(CallToolRequestSchema, async (req) => {
             }
           }
           if (!appid) {
-            const res = await searchUpcoming([], "popularcomingsoon", 100);
+            const res = await searchUpcoming([], "popularcomingsoon", 100, cfg.allowAdult);
             const hit = res.rows.find((r) => r.name.toLowerCase().includes(needle));
             if (hit) appid = hit.appid;
           }
