@@ -261,10 +261,18 @@ function iso(y: number, mo: number, d: number): string {
   return dt.toISOString().slice(0, 10);
 }
 
-const ADULT_DESCIDS = [3, 4];
+// Steam content descriptors: 1 = some nudity/sexual content, 3 = adult only,
+// 4 = frequent nudity/sexual content. 2 (violence) and 5 (general mature) are
+// ordinary games and stay.
+const ADULT_DESCIDS = [1, 3, 4];
+
+// Second net: some titles carry no descriptors but are tagged explicitly.
+// 6650 Nudity, 9130 Hentai, 12095 Sexual Content.
+const ADULT_TAGIDS = [6650, 9130, 12095];
 
 function isAdult(r: Row): boolean {
-  return r.descIds.some((d) => ADULT_DESCIDS.includes(d));
+  return r.descIds.some((d) => ADULT_DESCIDS.includes(d))
+    || r.tagIds.some((t) => ADULT_TAGIDS.includes(t));
 }
 
 function parseRows(html: string, startRank: number): Row[] {
