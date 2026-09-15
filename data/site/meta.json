@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T19:05:26.374Z",
-  "snapshotCount": 5,
+  "lastUpdated": "2026-09-15T18:00:38.085Z",
+  "snapshotCount": 6,
   "oldestSnapshot": "2026-09-10",
   "trackedTags": [
     "RPG",
@@ -8,5 +8,5 @@
     "FPS",
     "Roguelike"
   ],
-  "gameCount": 179
+  "gameCount": 168
 }
