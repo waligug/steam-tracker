@@ -9,62 +9,6 @@
   ],
   "games": [
     {
-      "appid": 5013390,
-      "name": "Sakura: The Eternal Night",
-      "releaseDateRaw": "Sep 19, 2026",
-      "releaseDateISO": "2026-09-19",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013390/f223d9a864dc8beb8aa931a452a4b6b3bff2009e/capsule_231x87.jpg?t=1789653486",
-      "tags": [
-        "RPG"
-      ],
-      "bestRank": 24,
-      "delta": null,
-      "bucket": "Releasing now",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-17",
-          "rank": 36
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 25
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 24
-        }
-      ]
-    },
-    {
-      "appid": 5195850,
-      "name": "Slap the Gamer",
-      "releaseDateRaw": "Sep 19, 2026",
-      "releaseDateISO": "2026-09-19",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5195850/ec1ba1ee8166625270079eaa68ab0c8fc58b3939/capsule_231x87.jpg?t=1788742363",
-      "tags": [
-        "Indie"
-      ],
-      "bestRank": 29,
-      "delta": null,
-      "bucket": "Releasing now",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 37
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 29
-        }
-      ]
-    },
-    {
       "appid": 3002740,
       "name": "Project Solaris",
       "releaseDateRaw": "Sep 20, 2026",
@@ -77,9 +21,9 @@
         "Indie",
         "Roguelike"
       ],
-      "bestRank": 4,
+      "bestRank": 3,
       "delta": null,
-      "bucket": "This week",
+      "bucket": "Releasing now",
       "pinned": false,
       "series": [
         {
@@ -97,6 +41,10 @@
         {
           "date": "2026-09-19",
           "rank": 4
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 3
         }
       ]
     },
@@ -112,9 +60,9 @@
         "RPG",
         "Indie"
       ],
-      "bestRank": 27,
+      "bestRank": 25,
       "delta": null,
-      "bucket": "This week",
+      "bucket": "Releasing now",
       "pinned": false,
       "series": [
         {
@@ -128,6 +76,10 @@
         {
           "date": "2026-09-19",
           "rank": 27
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 25
         }
       ]
     },
@@ -145,8 +97,8 @@
         "Roguelike"
       ],
       "bestRank": 7,
-      "delta": 39,
-      "bucket": "This week",
+      "delta": 36,
+      "bucket": "Releasing now",
       "pinned": false,
       "series": [
         {
@@ -188,58 +140,10 @@
         {
           "date": "2026-09-19",
           "rank": 7
-        }
-      ]
-    },
-    {
-      "appid": 5157680,
-      "name": "DIY Dadish",
-      "releaseDateRaw": "Sep 20, 2026",
-      "releaseDateISO": "2026-09-20",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5157680/0cd73f29ef22a1882abab99cd441ae8995280348/capsule_231x87.jpg?t=1788406254",
-      "tags": [
-        "Indie"
-      ],
-      "bestRank": 33,
-      "delta": null,
-      "bucket": "This week",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 41
         },
         {
-          "date": "2026-09-19",
-          "rank": 33
-        }
-      ]
-    },
-    {
-      "appid": 4172110,
-      "name": "Dear Journey...",
-      "releaseDateRaw": "Sep 20, 2026",
-      "releaseDateISO": "2026-09-20",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4172110/00b7194e1bd5532d8514a3e9a70f460e077c7310/capsule_231x87.jpg?t=1789347958",
-      "tags": [
-        "Indie"
-      ],
-      "bestRank": 35,
-      "delta": null,
-      "bucket": "This week",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 42
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 35
+          "date": "2026-09-20",
+          "rank": 7
         }
       ]
     },
@@ -250,18 +154,22 @@
       "releaseDateISO": "2026-09-20",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5142630/ce30c8b805f3ae89fc32fee4c1421271be482a05/capsule_231x87.jpg?t=1789790053",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5142630/ce30c8b805f3ae89fc32fee4c1421271be482a05/capsule_231x87.jpg?t=1789918199",
       "tags": [
         "Indie"
       ],
-      "bestRank": 44,
+      "bestRank": 40,
       "delta": null,
-      "bucket": "This week",
+      "bucket": "Releasing now",
       "pinned": false,
       "series": [
         {
           "date": "2026-09-19",
           "rank": 44
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 40
         }
       ]
     },
@@ -272,18 +180,44 @@
       "releaseDateISO": "2026-09-20",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5206420/55659b0e0643130664c605cf157ae1b676210925/capsule_231x87.jpg?t=1788831436",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5206420/b7440c81146af2dea03bc604a82b8bdb54aa3155/capsule_231x87.jpg?t=1789889012",
       "tags": [
         "Indie"
       ],
-      "bestRank": 45,
+      "bestRank": 43,
       "delta": null,
-      "bucket": "This week",
+      "bucket": "Releasing now",
       "pinned": false,
       "series": [
         {
           "date": "2026-09-19",
           "rank": 45
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 43
+        }
+      ]
+    },
+    {
+      "appid": 4866450,
+      "name": "Cyberpunk Survivor",
+      "releaseDateRaw": "Sep 20, 2026",
+      "releaseDateISO": "2026-09-20",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4866450/2371635c8f8a91e59c6c08b9eb8b22faeb17d83f/capsule_231x87.jpg?t=1788191291",
+      "tags": [
+        "Indie"
+      ],
+      "bestRank": 47,
+      "delta": null,
+      "bucket": "Releasing now",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-20",
+          "rank": 47
         }
       ]
     },
@@ -299,8 +233,8 @@
         "Roguelike"
       ],
       "bestRank": 6,
-      "delta": 38,
-      "bucket": "This week",
+      "delta": 35,
+      "bucket": "Releasing now",
       "pinned": false,
       "series": [
         {
@@ -342,6 +276,10 @@
         {
           "date": "2026-09-19",
           "rank": 6
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 6
         }
       ]
     },
@@ -352,7 +290,7 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3255500/6fbfc5de6ba7ea95104dcfe92b23156ed62aa48e/capsule_231x87.jpg?t=1789837310",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3255500/6fbfc5de6ba7ea95104dcfe92b23156ed62aa48e/capsule_231x87.jpg?t=1789907901",
       "tags": [
         "RPG",
         "Roguelike"
@@ -401,6 +339,10 @@
         {
           "date": "2026-09-19",
           "rank": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 1
         }
       ]
     },
@@ -415,8 +357,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 12,
-      "delta": 14,
+      "bestRank": 10,
+      "delta": 15,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -459,6 +401,10 @@
         {
           "date": "2026-09-19",
           "rank": 12
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 10
         }
       ]
     },
@@ -473,7 +419,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 18,
+      "bestRank": 17,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -493,6 +439,10 @@
         {
           "date": "2026-09-19",
           "rank": 18
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 17
         }
       ]
     },
@@ -507,7 +457,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 32,
+      "bestRank": 31,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -519,32 +469,10 @@
         {
           "date": "2026-09-19",
           "rank": 32
-        }
-      ]
-    },
-    {
-      "appid": 4493090,
-      "name": "Immortal Dao Idle",
-      "releaseDateRaw": "Sep 21, 2026",
-      "releaseDateISO": "2026-09-21",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4493090/ebafbb8139802420475ae45161800cd44505cf88/capsule_231x87.jpg?t=1789691506",
-      "tags": [
-        "RPG"
-      ],
-      "bestRank": 33,
-      "delta": null,
-      "bucket": "This week",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 34
         },
         {
-          "date": "2026-09-19",
-          "rank": 33
+          "date": "2026-09-20",
+          "rank": 31
         }
       ]
     },
@@ -561,7 +489,7 @@
         "Roguelike"
       ],
       "bestRank": 10,
-      "delta": null,
+      "delta": 37,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -596,6 +524,40 @@
         {
           "date": "2026-09-19",
           "rank": 10
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "appid": 4493090,
+      "name": "Immortal Dao Idle",
+      "releaseDateRaw": "Sep 21, 2026",
+      "releaseDateISO": "2026-09-21",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4493090/ebafbb8139802420475ae45161800cd44505cf88/capsule_231x87.jpg?t=1789691506",
+      "tags": [
+        "RPG"
+      ],
+      "bestRank": 33,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-18",
+          "rank": 34
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 33
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 33
         }
       ]
     },
@@ -610,7 +572,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 35,
+      "bestRank": 34,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -622,6 +584,40 @@
         {
           "date": "2026-09-19",
           "rank": 35
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 34
+        }
+      ]
+    },
+    {
+      "appid": 5007890,
+      "name": "CHAINSPIRE",
+      "releaseDateRaw": "Sep 21, 2026",
+      "releaseDateISO": "2026-09-21",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007890/a3bca92166131499aa676de675a960b7ca6c5ede/capsule_231x87.jpg?t=1788554649",
+      "tags": [
+        "RPG"
+      ],
+      "bestRank": 36,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-18",
+          "rank": 39
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 38
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 36
         }
       ]
     },
@@ -638,7 +634,7 @@
         "Roguelike"
       ],
       "bestRank": 11,
-      "delta": 36,
+      "delta": 34,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -681,32 +677,10 @@
         {
           "date": "2026-09-19",
           "rank": 11
-        }
-      ]
-    },
-    {
-      "appid": 5007890,
-      "name": "CHAINSPIRE",
-      "releaseDateRaw": "Sep 21, 2026",
-      "releaseDateISO": "2026-09-21",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007890/a3bca92166131499aa676de675a960b7ca6c5ede/capsule_231x87.jpg?t=1788554649",
-      "tags": [
-        "RPG"
-      ],
-      "bestRank": 38,
-      "delta": null,
-      "bucket": "This week",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 39
         },
         {
-          "date": "2026-09-19",
-          "rank": 38
+          "date": "2026-09-20",
+          "rank": 11
         }
       ]
     },
@@ -721,7 +695,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 42,
+      "bestRank": 40,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -729,6 +703,10 @@
         {
           "date": "2026-09-19",
           "rank": 42
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 40
         }
       ]
     },
@@ -739,7 +717,7 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705510/c5e87568b6d7a5b000e4641c973fb721db1c4252/capsule_231x87.jpg?t=1789585374",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4705510/c5e87568b6d7a5b000e4641c973fb721db1c4252/capsule_231x87.jpg?t=1789923256",
       "tags": [
         "Indie"
       ],
@@ -786,6 +764,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-20",
           "rank": 1
         }
       ]
@@ -841,6 +823,10 @@
         {
           "date": "2026-09-19",
           "rank": 2
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 2
         }
       ]
     },
@@ -856,7 +842,7 @@
         "Indie"
       ],
       "bestRank": 5,
-      "delta": 5,
+      "delta": 6,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -899,6 +885,10 @@
         {
           "date": "2026-09-19",
           "rank": 5
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 5
         }
       ]
     },
@@ -909,11 +899,11 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2514330/5dcc5ec688028b78d65c0275982da38d96d361fa/capsule_231x87.jpg?t=1789782564",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2514330/5dcc5ec688028b78d65c0275982da38d96d361fa/capsule_231x87.jpg?t=1789920008",
       "tags": [
         "Indie"
       ],
-      "bestRank": 15,
+      "bestRank": 14,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -937,6 +927,10 @@
         {
           "date": "2026-09-19",
           "rank": 15
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 14
         }
       ]
     },
@@ -947,11 +941,11 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3565480/cdd60908e8ef7096ff39a99c82ad75b5bc052430/capsule_231x87_alt_assets_18.jpg?t=1789562039",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3565480/02a40a1e01ad40c1f428c57d4d8a8ac3951b79c0/capsule_231x87_alt_assets_14.jpg?t=1789562039",
       "tags": [
         "Indie"
       ],
-      "bestRank": 16,
+      "bestRank": 15,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -971,6 +965,10 @@
         {
           "date": "2026-09-19",
           "rank": 16
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 15
         }
       ]
     },
@@ -1005,6 +1003,10 @@
         {
           "date": "2026-09-19",
           "rank": 17
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 17
         }
       ]
     },
@@ -1019,7 +1021,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 36,
+      "bestRank": 32,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1031,6 +1033,10 @@
         {
           "date": "2026-09-19",
           "rank": 36
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 32
         }
       ]
     },
@@ -1041,11 +1047,11 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4639490/eab8a8df3e2a875ed9cdef25a98981bae0b7f2ed/capsule_231x87.jpg?t=1789213681",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4639490/eab8a8df3e2a875ed9cdef25a98981bae0b7f2ed/capsule_231x87.jpg?t=1789920603",
       "tags": [
         "Indie"
       ],
-      "bestRank": 38,
+      "bestRank": 35,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1057,6 +1063,10 @@
         {
           "date": "2026-09-19",
           "rank": 38
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 35
         }
       ]
     },
@@ -1071,7 +1081,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 39,
+      "bestRank": 37,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1083,6 +1093,10 @@
         {
           "date": "2026-09-19",
           "rank": 39
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 37
         }
       ]
     },
@@ -1097,7 +1111,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 41,
+      "bestRank": 38,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1105,28 +1119,10 @@
         {
           "date": "2026-09-19",
           "rank": 41
-        }
-      ]
-    },
-    {
-      "appid": 4513380,
-      "name": "Node Factory",
-      "releaseDateRaw": "Sep 21, 2026",
-      "releaseDateISO": "2026-09-21",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513380/1c3d7744a2c41b393c2f5b42cb89d022e23552c1/capsule_231x87.jpg?t=1789640879",
-      "tags": [
-        "Indie"
-      ],
-      "bestRank": 42,
-      "delta": null,
-      "bucket": "This week",
-      "pinned": false,
-      "series": [
+        },
         {
-          "date": "2026-09-19",
-          "rank": 42
+          "date": "2026-09-20",
+          "rank": 38
         }
       ]
     },
@@ -1141,7 +1137,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 43,
+      "bestRank": 39,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1149,28 +1145,36 @@
         {
           "date": "2026-09-19",
           "rank": 43
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 39
         }
       ]
     },
     {
-      "appid": 4159550,
-      "name": "Formula 2.5",
+      "appid": 4513380,
+      "name": "Node Factory",
       "releaseDateRaw": "Sep 21, 2026",
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4159550/8a66d38194dc316defe5b5596116f44943e2b2dd/capsule_231x87.jpg?t=1789359264",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4513380/1c3d7744a2c41b393c2f5b42cb89d022e23552c1/capsule_231x87.jpg?t=1789640879",
       "tags": [
         "Indie"
       ],
-      "bestRank": 48,
+      "bestRank": 41,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
       "series": [
         {
           "date": "2026-09-19",
-          "rank": 48
+          "rank": 42
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 41
         }
       ]
     },
@@ -1181,11 +1185,12 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3042790/66e1b76d1bf38acccc0c7f68b9c29f8daef33ec5/capsule_231x87.jpg?t=1789509114",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3042790/66e1b76d1bf38acccc0c7f68b9c29f8daef33ec5/capsule_231x87.jpg?t=1789923651",
       "tags": [
+        "Indie",
         "FPS"
       ],
-      "bestRank": 6,
+      "bestRank": 4,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1205,6 +1210,36 @@
         {
           "date": "2026-09-19",
           "rank": 6
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "appid": 4159550,
+      "name": "Formula 2.5",
+      "releaseDateRaw": "Sep 21, 2026",
+      "releaseDateISO": "2026-09-21",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4159550/8a66d38194dc316defe5b5596116f44943e2b2dd/capsule_231x87.jpg?t=1789359264",
+      "tags": [
+        "Indie"
+      ],
+      "bestRank": 46,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-19",
+          "rank": 48
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 46
         }
       ]
     },
@@ -1220,7 +1255,7 @@
         "FPS"
       ],
       "bestRank": 7,
-      "delta": 23,
+      "delta": 22,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1263,6 +1298,10 @@
         {
           "date": "2026-09-19",
           "rank": 7
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 7
         }
       ]
     },
@@ -1278,7 +1317,7 @@
         "FPS"
       ],
       "bestRank": 8,
-      "delta": 21,
+      "delta": 20,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1321,6 +1360,10 @@
         {
           "date": "2026-09-19",
           "rank": 8
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 8
         }
       ]
     },
@@ -1335,7 +1378,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 11,
+      "bestRank": 10,
       "delta": 20,
       "bucket": "This week",
       "pinned": false,
@@ -1379,6 +1422,10 @@
         {
           "date": "2026-09-19",
           "rank": 11
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 10
         }
       ]
     },
@@ -1389,12 +1436,12 @@
       "releaseDateISO": "2026-09-21",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1352890/121cd20c93c2cf71cc1d0c184d6c349a4ad103f6/capsule_231x87.jpg?t=1789837136",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1352890/121cd20c93c2cf71cc1d0c184d6c349a4ad103f6/capsule_231x87.jpg?t=1789892009",
       "tags": [
         "Roguelike"
       ],
       "bestRank": 8,
-      "delta": 40,
+      "delta": 36,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1433,6 +1480,10 @@
         {
           "date": "2026-09-19",
           "rank": 8
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 8
         }
       ]
     },
@@ -1448,7 +1499,7 @@
         "Roguelike"
       ],
       "bestRank": 9,
-      "delta": 36,
+      "delta": 33,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1490,6 +1541,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 9
+        },
+        {
+          "date": "2026-09-20",
           "rank": 9
         }
       ]
@@ -1533,6 +1588,10 @@
         {
           "date": "2026-09-19",
           "rank": 12
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 12
         }
       ]
     },
@@ -1548,7 +1607,7 @@
         "Roguelike"
       ],
       "bestRank": 13,
-      "delta": null,
+      "delta": 36,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1579,48 +1638,10 @@
         {
           "date": "2026-09-19",
           "rank": 13
-        }
-      ]
-    },
-    {
-      "appid": 4286910,
-      "name": "EON Survivor",
-      "releaseDateRaw": "Sep 21, 2026",
-      "releaseDateISO": "2026-09-21",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4286910/809391b19e90836da90be27bd367c019396577cb/capsule_231x87.jpg?t=1788616745",
-      "tags": [
-        "Roguelike"
-      ],
-      "bestRank": 16,
-      "delta": null,
-      "bucket": "This week",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-14",
-          "rank": 43
         },
         {
-          "date": "2026-09-15",
-          "rank": 37
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 32
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 25
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 18
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 16
+          "date": "2026-09-20",
+          "rank": 13
         }
       ]
     },
@@ -1635,7 +1656,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 17,
+      "bestRank": 16,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1663,6 +1684,56 @@
         {
           "date": "2026-09-19",
           "rank": 17
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 16
+        }
+      ]
+    },
+    {
+      "appid": 4286910,
+      "name": "EON Survivor",
+      "releaseDateRaw": "Sep 21, 2026",
+      "releaseDateISO": "2026-09-21",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4286910/809391b19e90836da90be27bd367c019396577cb/capsule_231x87.jpg?t=1788616745",
+      "tags": [
+        "Roguelike"
+      ],
+      "bestRank": 17,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-14",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-15",
+          "rank": 37
+        },
+        {
+          "date": "2026-09-16",
+          "rank": 32
+        },
+        {
+          "date": "2026-09-17",
+          "rank": 25
+        },
+        {
+          "date": "2026-09-18",
+          "rank": 18
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 16
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 17
         }
       ]
     },
@@ -1677,7 +1748,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 18,
+      "bestRank": 19,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1705,6 +1776,10 @@
         {
           "date": "2026-09-19",
           "rank": 18
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 19
         }
       ]
     },
@@ -1720,7 +1795,7 @@
         "RPG"
       ],
       "bestRank": 1,
-      "delta": 3,
+      "delta": 4,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1763,6 +1838,10 @@
         {
           "date": "2026-09-19",
           "rank": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 1
         }
       ]
     },
@@ -1773,13 +1852,13 @@
       "releaseDateISO": "2026-09-22",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4072240/46bd90ee241a6e21770d4f4de4ef300e480f8c07/capsule_231x87.jpg?t=1789824308",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4072240/46bd90ee241a6e21770d4f4de4ef300e480f8c07/capsule_231x87.jpg?t=1789912905",
       "tags": [
         "RPG",
         "Indie"
       ],
-      "bestRank": 4,
-      "delta": 14,
+      "bestRank": 3,
+      "delta": 13,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1822,6 +1901,10 @@
         {
           "date": "2026-09-19",
           "rank": 4
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 3
         }
       ]
     },
@@ -1837,7 +1920,7 @@
         "RPG"
       ],
       "bestRank": 14,
-      "delta": null,
+      "delta": 34,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -1867,6 +1950,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 14
+        },
+        {
+          "date": "2026-09-20",
           "rank": 14
         }
       ]
@@ -1911,6 +1998,10 @@
         {
           "date": "2026-09-19",
           "rank": 13
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 13
         }
       ]
     },
@@ -1925,7 +2016,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 28,
+      "bestRank": 26,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1941,6 +2032,10 @@
         {
           "date": "2026-09-19",
           "rank": 28
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 26
         }
       ]
     },
@@ -1955,7 +2050,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 29,
+      "bestRank": 27,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1971,6 +2066,10 @@
         {
           "date": "2026-09-19",
           "rank": 29
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 27
         }
       ]
     },
@@ -1985,7 +2084,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 36,
+      "bestRank": 30,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -1997,6 +2096,10 @@
         {
           "date": "2026-09-19",
           "rank": 36
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 30
         }
       ]
     },
@@ -2011,7 +2114,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 41,
+      "bestRank": 39,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2019,6 +2122,10 @@
         {
           "date": "2026-09-19",
           "rank": 41
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 39
         }
       ]
     },
@@ -2040,6 +2147,10 @@
       "series": [
         {
           "date": "2026-09-19",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-20",
           "rank": 43
         }
       ]
@@ -2063,6 +2174,10 @@
         {
           "date": "2026-09-19",
           "rank": 44
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 44
         }
       ]
     },
@@ -2078,7 +2193,7 @@
         "Indie"
       ],
       "bestRank": 6,
-      "delta": null,
+      "delta": 32,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2109,6 +2224,10 @@
         {
           "date": "2026-09-19",
           "rank": 6
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 6
         }
       ]
     },
@@ -2124,7 +2243,7 @@
         "Indie"
       ],
       "bestRank": 7,
-      "delta": 9,
+      "delta": 10,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2167,6 +2286,10 @@
         {
           "date": "2026-09-19",
           "rank": 7
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 7
         }
       ]
     },
@@ -2181,8 +2304,8 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 11,
-      "delta": 25,
+      "bestRank": 10,
+      "delta": 30,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2221,6 +2344,10 @@
         {
           "date": "2026-09-19",
           "rank": 11
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 10
         }
       ]
     },
@@ -2235,7 +2362,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 22,
+      "bestRank": 19,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2247,6 +2374,10 @@
         {
           "date": "2026-09-19",
           "rank": 22
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 19
         }
       ]
     },
@@ -2261,7 +2392,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 26,
+      "bestRank": 27,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2273,6 +2404,10 @@
         {
           "date": "2026-09-19",
           "rank": 26
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 27
         }
       ]
     },
@@ -2283,11 +2418,11 @@
       "releaseDateISO": "2026-09-22",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3872650/d0ceb8ff5dd5440e3a7881972e937ccb839540d2/capsule_231x87.jpg?t=1789643843",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3872650/d0ceb8ff5dd5440e3a7881972e937ccb839540d2/capsule_231x87.jpg?t=1789922876",
       "tags": [
         "Indie"
       ],
-      "bestRank": 31,
+      "bestRank": 29,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2299,6 +2434,10 @@
         {
           "date": "2026-09-19",
           "rank": 31
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 29
         }
       ]
     },
@@ -2313,7 +2452,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 37,
+      "bestRank": 31,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2325,6 +2464,10 @@
         {
           "date": "2026-09-19",
           "rank": 37
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 31
         }
       ]
     },
@@ -2339,7 +2482,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 47,
+      "bestRank": 48,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2347,6 +2490,10 @@
         {
           "date": "2026-09-19",
           "rank": 47
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 48
         }
       ]
     },
@@ -2362,7 +2509,7 @@
         "FPS"
       ],
       "bestRank": 5,
-      "delta": 23,
+      "delta": 22,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2405,6 +2552,10 @@
         {
           "date": "2026-09-19",
           "rank": 5
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 5
         }
       ]
     },
@@ -2415,12 +2566,12 @@
       "releaseDateISO": "2026-09-22",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5125210/86cbfa787ff31b96bbae485341ea60cb2076a548/capsule_231x87.jpg?t=1788772216",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5125210/86cbfa787ff31b96bbae485341ea60cb2076a548/capsule_231x87.jpg?t=1789904732",
       "tags": [
         "FPS"
       ],
       "bestRank": 12,
-      "delta": 20,
+      "delta": 19,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2463,6 +2614,10 @@
         {
           "date": "2026-09-19",
           "rank": 12
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 12
         }
       ]
     },
@@ -2478,7 +2633,7 @@
         "FPS"
       ],
       "bestRank": 13,
-      "delta": 20,
+      "delta": 19,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2521,6 +2676,10 @@
         {
           "date": "2026-09-19",
           "rank": 13
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 13
         }
       ]
     },
@@ -2536,7 +2695,7 @@
         "Roguelike"
       ],
       "bestRank": 14,
-      "delta": null,
+      "delta": 34,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2570,6 +2729,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 14
+        },
+        {
+          "date": "2026-09-20",
           "rank": 14
         }
       ]
@@ -2613,6 +2776,10 @@
         {
           "date": "2026-09-19",
           "rank": 15
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 15
         }
       ]
     },
@@ -2623,11 +2790,11 @@
       "releaseDateISO": "2026-09-22",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4306590/c7c7a41bc1ca5dce3f785277f3a0e0131a5fed41/capsule_231x87_alt_assets_0.jpg?t=1789800656",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4306590/c7c7a41bc1ca5dce3f785277f3a0e0131a5fed41/capsule_231x87_alt_assets_0.jpg?t=1789907528",
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 19,
+      "bestRank": 18,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2655,6 +2822,10 @@
         {
           "date": "2026-09-19",
           "rank": 19
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 18
         }
       ]
     },
@@ -2696,6 +2867,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 20
+        },
+        {
+          "date": "2026-09-20",
           "rank": 20
         }
       ]
@@ -2739,6 +2914,10 @@
         {
           "date": "2026-09-19",
           "rank": 21
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 21
         }
       ]
     },
@@ -2753,8 +2932,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 13,
-      "delta": 23,
+      "bestRank": 12,
+      "delta": 25,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2797,6 +2976,10 @@
         {
           "date": "2026-09-19",
           "rank": 13
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 12
         }
       ]
     },
@@ -2813,8 +2996,8 @@
         "Indie",
         "Roguelike"
       ],
-      "bestRank": 5,
-      "delta": 36,
+      "bestRank": 4,
+      "delta": 34,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2857,6 +3040,10 @@
         {
           "date": "2026-09-19",
           "rank": 5
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 4
         }
       ]
     },
@@ -2872,7 +3059,7 @@
         "Indie"
       ],
       "bestRank": 3,
-      "delta": 8,
+      "delta": 5,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -2915,6 +3102,10 @@
         {
           "date": "2026-09-19",
           "rank": 3
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 3
         }
       ]
     },
@@ -2941,6 +3132,10 @@
         {
           "date": "2026-09-19",
           "rank": 24
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 24
         }
       ]
     },
@@ -2955,7 +3150,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 32,
+      "bestRank": 28,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -2967,6 +3162,10 @@
         {
           "date": "2026-09-19",
           "rank": 32
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 28
         }
       ]
     },
@@ -3025,6 +3224,10 @@
         {
           "date": "2026-09-19",
           "rank": 2
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 2
         }
       ]
     },
@@ -3040,7 +3243,7 @@
         "FPS"
       ],
       "bestRank": 15,
-      "delta": 20,
+      "delta": 19,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3083,6 +3286,10 @@
         {
           "date": "2026-09-19",
           "rank": 15
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 15
         }
       ]
     },
@@ -3097,8 +3304,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 16,
-      "delta": 20,
+      "bestRank": 17,
+      "delta": 19,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3141,6 +3348,10 @@
         {
           "date": "2026-09-19",
           "rank": 16
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 17
         }
       ]
     },
@@ -3156,7 +3367,7 @@
         "FPS"
       ],
       "bestRank": 18,
-      "delta": 20,
+      "delta": 19,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3191,6 +3402,32 @@
         {
           "date": "2026-09-19",
           "rank": 18
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 18
+        }
+      ]
+    },
+    {
+      "appid": 4711510,
+      "name": "VRLF - Virtual Reality Lightgun Framework",
+      "releaseDateRaw": "Sep 23, 2026",
+      "releaseDateISO": "2026-09-23",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4711510/c25dfbb12e3cbfb95539f92dff7080633bba6250/capsule_231x87.jpg?t=1789889907",
+      "tags": [
+        "FPS"
+      ],
+      "bestRank": 19,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-20",
+          "rank": 19
         }
       ]
     },
@@ -3213,6 +3450,10 @@
         {
           "date": "2026-09-19",
           "rank": 22
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 22
         }
       ]
     },
@@ -3227,7 +3468,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 23,
+      "bestRank": 24,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3251,6 +3492,10 @@
         {
           "date": "2026-09-19",
           "rank": 23
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 24
         }
       ]
     },
@@ -3288,6 +3533,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 25
+        },
+        {
+          "date": "2026-09-20",
           "rank": 25
         }
       ]
@@ -3327,6 +3576,10 @@
         {
           "date": "2026-09-19",
           "rank": 26
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 26
         }
       ]
     },
@@ -3364,6 +3617,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 27
+        },
+        {
+          "date": "2026-09-20",
           "rank": 27
         }
       ]
@@ -3403,6 +3660,10 @@
         {
           "date": "2026-09-19",
           "rank": 28
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 28
         }
       ]
     },
@@ -3436,6 +3697,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 29
+        },
+        {
+          "date": "2026-09-20",
           "rank": 29
         }
       ]
@@ -3495,6 +3760,10 @@
         {
           "date": "2026-09-19",
           "rank": 2
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 2
         }
       ]
     },
@@ -3509,7 +3778,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 39,
+      "bestRank": 38,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3521,6 +3790,10 @@
         {
           "date": "2026-09-19",
           "rank": 39
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 38
         }
       ]
     },
@@ -3535,7 +3808,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 40,
+      "bestRank": 41,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3547,6 +3820,10 @@
         {
           "date": "2026-09-19",
           "rank": 40
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 41
         }
       ]
     },
@@ -3561,8 +3838,8 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 10,
-      "delta": 12,
+      "bestRank": 9,
+      "delta": 13,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3605,6 +3882,10 @@
         {
           "date": "2026-09-19",
           "rank": 10
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 9
         }
       ]
     },
@@ -3621,7 +3902,7 @@
         "Roguelike"
       ],
       "bestRank": 2,
-      "delta": 13,
+      "delta": 11,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3664,6 +3945,10 @@
         {
           "date": "2026-09-19",
           "rank": 2
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 2
         }
       ]
     },
@@ -3678,7 +3963,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 20,
+      "bestRank": 23,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3690,6 +3975,10 @@
         {
           "date": "2026-09-19",
           "rank": 20
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 23
         }
       ]
     },
@@ -3704,8 +3993,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 9,
-      "delta": 16,
+      "bestRank": 11,
+      "delta": 13,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3748,6 +4037,10 @@
         {
           "date": "2026-09-19",
           "rank": 9
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 11
         }
       ]
     },
@@ -3763,7 +4056,7 @@
         "FPS"
       ],
       "bestRank": 14,
-      "delta": 23,
+      "delta": 21,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -3801,6 +4094,10 @@
         },
         {
           "date": "2026-09-19",
+          "rank": 14
+        },
+        {
+          "date": "2026-09-20",
           "rank": 14
         }
       ]
@@ -3836,6 +4133,32 @@
         {
           "date": "2026-09-19",
           "rank": 30
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 30
+        }
+      ]
+    },
+    {
+      "appid": 5242800,
+      "name": "LUMESPROUT",
+      "releaseDateRaw": "Sep 24, 2026",
+      "releaseDateISO": "2026-09-24",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5242800/e089882d2d1d9e2807d72a67ae28f556f7227f0b/capsule_231x87.jpg?t=1789857980",
+      "tags": [
+        "Roguelike"
+      ],
+      "bestRank": 31,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-20",
+          "rank": 31
         }
       ]
     },
@@ -3850,7 +4173,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 32,
+      "bestRank": 33,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3870,6 +4193,10 @@
         {
           "date": "2026-09-19",
           "rank": 32
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 33
         }
       ]
     },
@@ -3884,7 +4211,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 33,
+      "bestRank": 35,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3904,6 +4231,10 @@
         {
           "date": "2026-09-19",
           "rank": 33
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 35
         }
       ]
     },
@@ -3918,7 +4249,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 35,
+      "bestRank": 36,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3934,6 +4265,10 @@
         {
           "date": "2026-09-19",
           "rank": 35
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 36
         }
       ]
     },
@@ -3948,7 +4283,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 36,
+      "bestRank": 37,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -3964,6 +4299,10 @@
         {
           "date": "2026-09-19",
           "rank": 36
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 37
         }
       ]
     },
@@ -3994,6 +4333,10 @@
         {
           "date": "2026-09-19",
           "rank": 38
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 38
         }
       ]
     },
@@ -4008,7 +4351,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 39,
+      "bestRank": 40,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4020,6 +4363,10 @@
         {
           "date": "2026-09-19",
           "rank": 39
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 40
         }
       ]
     },
@@ -4034,7 +4381,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 40,
+      "bestRank": 41,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4050,6 +4397,10 @@
         {
           "date": "2026-09-19",
           "rank": 40
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 41
         }
       ]
     },
@@ -4064,7 +4415,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 20,
+      "bestRank": 21,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4084,6 +4435,32 @@
         {
           "date": "2026-09-19",
           "rank": 20
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 21
+        }
+      ]
+    },
+    {
+      "appid": 4086480,
+      "name": "Scorched Sun",
+      "releaseDateRaw": "Sep 25, 2026",
+      "releaseDateISO": "2026-09-25",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4086480/ad287289b993fd27624927e903f9b8764cf1877f/capsule_231x87.jpg?t=1789324005",
+      "tags": [
+        "RPG"
+      ],
+      "bestRank": 42,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-20",
+          "rank": 42
         }
       ]
     },
@@ -4098,7 +4475,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 19,
+      "bestRank": 20,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4114,6 +4491,10 @@
         {
           "date": "2026-09-19",
           "rank": 19
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 20
         }
       ]
     },
@@ -4130,7 +4511,7 @@
         "FPS"
       ],
       "bestRank": 3,
-      "delta": 23,
+      "delta": 20,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -4173,6 +4554,10 @@
         {
           "date": "2026-09-19",
           "rank": 3
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 3
         }
       ]
     },
@@ -4188,7 +4573,7 @@
         "FPS",
         "Roguelike"
       ],
-      "bestRank": 20,
+      "bestRank": 21,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4204,6 +4589,10 @@
         {
           "date": "2026-09-19",
           "rank": 20
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 21
         }
       ]
     },
@@ -4218,8 +4607,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 21,
-      "delta": 20,
+      "bestRank": 22,
+      "delta": 18,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -4254,6 +4643,10 @@
         {
           "date": "2026-09-19",
           "rank": 21
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 22
         }
       ]
     },
@@ -4268,7 +4661,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 22,
+      "bestRank": 23,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4288,6 +4681,10 @@
         {
           "date": "2026-09-19",
           "rank": 22
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 23
         }
       ]
     },
@@ -4302,7 +4699,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 31,
+      "bestRank": 32,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4322,6 +4719,10 @@
         {
           "date": "2026-09-19",
           "rank": 31
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 32
         }
       ]
     },
@@ -4336,7 +4737,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 37,
+      "bestRank": 39,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4352,6 +4753,10 @@
         {
           "date": "2026-09-19",
           "rank": 37
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 39
         }
       ]
     },
@@ -4366,7 +4771,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 41,
+      "bestRank": 42,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4378,6 +4783,10 @@
         {
           "date": "2026-09-19",
           "rank": 41
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 42
         }
       ]
     },
@@ -4392,8 +4801,8 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 42,
-      "delta": -10,
+      "bestRank": 43,
+      "delta": -13,
       "bucket": "This week",
       "pinned": false,
       "series": [
@@ -4412,6 +4821,10 @@
         {
           "date": "2026-09-19",
           "rank": 42
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 43
         }
       ]
     },
@@ -4426,7 +4839,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 44,
+      "bestRank": 45,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4438,6 +4851,10 @@
         {
           "date": "2026-09-19",
           "rank": 44
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 45
         }
       ]
     },
@@ -4448,11 +4865,11 @@
       "releaseDateISO": "2026-09-25",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909940/7e9dfc0e6aa84a9dcca646ce28b1e9eef8f797fe/capsule_231x87.jpg?t=1789778849",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4909940/7e9dfc0e6aa84a9dcca646ce28b1e9eef8f797fe/capsule_231x87.jpg?t=1789890460",
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 45,
+      "bestRank": 46,
       "delta": null,
       "bucket": "This week",
       "pinned": false,
@@ -4464,6 +4881,32 @@
         {
           "date": "2026-09-19",
           "rank": 45
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 46
+        }
+      ]
+    },
+    {
+      "appid": 5002420,
+      "name": "The Ball Just Won't Stay Up",
+      "releaseDateRaw": "Sep 25, 2026",
+      "releaseDateISO": "2026-09-25",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5002420/7b88a36212c9d39f7ef40d890e2623372bcbdf42/capsule_231x87.jpg?t=1789921840",
+      "tags": [
+        "Roguelike"
+      ],
+      "bestRank": 47,
+      "delta": null,
+      "bucket": "This week",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-20",
+          "rank": 47
         }
       ]
     },
@@ -4480,8 +4923,8 @@
         "FPS"
       ],
       "bestRank": 1,
-      "delta": 17,
-      "bucket": "Next 30 days",
+      "delta": 16,
+      "bucket": "This week",
       "pinned": false,
       "series": [
         {
@@ -4523,6 +4966,10 @@
         {
           "date": "2026-09-19",
           "rank": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 1
         }
       ]
     },
@@ -4535,9 +4982,10 @@
       "priceText": null,
       "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4623570/d2787d4732133073e1b91c11a9ee0db088148a10/capsule_231x87.jpg?t=1789693557",
       "tags": [
-        "RPG"
+        "RPG",
+        "Indie"
       ],
-      "bestRank": 31,
+      "bestRank": 29,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -4549,6 +4997,10 @@
         {
           "date": "2026-09-19",
           "rank": 31
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 29
         }
       ]
     },
@@ -4563,8 +5015,8 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 9,
-      "delta": -2,
+      "bestRank": 11,
+      "delta": -1,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -4607,6 +5059,10 @@
         {
           "date": "2026-09-19",
           "rank": 9
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 11
         }
       ]
     },
@@ -4621,7 +5077,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 23,
+      "bestRank": 22,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -4633,6 +5089,10 @@
         {
           "date": "2026-09-19",
           "rank": 23
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 22
         }
       ]
     },
@@ -4647,8 +5107,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 17,
-      "delta": 27,
+      "bestRank": 16,
+      "delta": 25,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -4691,6 +5151,10 @@
         {
           "date": "2026-09-19",
           "rank": 17
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 16
         }
       ]
     },
@@ -4705,8 +5169,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 24,
-      "delta": 19,
+      "bestRank": 25,
+      "delta": 17,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -4749,6 +5213,10 @@
         {
           "date": "2026-09-19",
           "rank": 24
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 25
         }
       ]
     },
@@ -4763,7 +5231,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 25,
+      "bestRank": 27,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -4791,6 +5259,10 @@
         {
           "date": "2026-09-19",
           "rank": 25
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 27
         }
       ]
     },
@@ -4805,8 +5277,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 28,
-      "delta": null,
+      "bestRank": 29,
+      "delta": 17,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -4837,6 +5309,10 @@
         {
           "date": "2026-09-19",
           "rank": 28
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 29
         }
       ]
     },
@@ -4851,7 +5327,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 29,
+      "bestRank": 30,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -4879,6 +5355,10 @@
         {
           "date": "2026-09-19",
           "rank": 29
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 30
         }
       ]
     },
@@ -4893,8 +5373,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 30,
-      "delta": 17,
+      "bestRank": 31,
+      "delta": 16,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -4933,6 +5413,10 @@
         {
           "date": "2026-09-19",
           "rank": 30
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 31
         }
       ]
     },
@@ -4947,56 +5431,40 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 31,
-      "delta": null,
-      "bucket": "Next 30 days",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-19",
-          "rank": 31
-        }
-      ]
-    },
-    {
-      "appid": 4487470,
-      "name": "Defuse or u ded",
-      "releaseDateRaw": "Q3 2026",
-      "releaseDateISO": "2026-09-28",
-      "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487470/036fc3df32ec2fad238e7de6b70765379690bee0/capsule_231x87.jpg?t=1787075796",
-      "tags": [
-        "FPS"
-      ],
       "bestRank": 32,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
         {
-          "date": "2026-09-14",
-          "rank": 43
-        },
-        {
-          "date": "2026-09-15",
-          "rank": 40
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 40
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 35
-        },
-        {
-          "date": "2026-09-18",
+          "date": "2026-09-19",
           "rank": 31
         },
         {
-          "date": "2026-09-19",
+          "date": "2026-09-20",
           "rank": 32
+        }
+      ]
+    },
+    {
+      "appid": 5261340,
+      "name": "DEADLINE: LAST CHECKPOINT",
+      "releaseDateRaw": "Q3 2026",
+      "releaseDateISO": "2026-09-28",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5261340/a16de7013dbaf4d6ff896202c969fd06ddc6dee6/capsule_231x87.jpg?t=1789920337",
+      "tags": [
+        "FPS"
+      ],
+      "bestRank": 33,
+      "delta": null,
+      "bucket": "Next 30 days",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-20",
+          "rank": 33
         }
       ]
     },
@@ -5011,7 +5479,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 33,
+      "bestRank": 34,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5039,75 +5507,21 @@
         {
           "date": "2026-09-19",
           "rank": 33
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 34
         }
       ]
     },
     {
-      "appid": 4487280,
-      "name": "HazardousExtractions",
+      "appid": 4487470,
+      "name": "Defuse or u ded",
       "releaseDateRaw": "Q3 2026",
       "releaseDateISO": "2026-09-28",
       "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487280/5f44e2466396db28cad7a6a73699173215ff4c79/capsule_231x87.jpg?t=1789656355",
-      "tags": [
-        "FPS"
-      ],
-      "bestRank": 34,
-      "delta": 0,
-      "bucket": "Next 30 days",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-10",
-          "rank": 38
-        },
-        {
-          "date": "2026-09-11",
-          "rank": 35
-        },
-        {
-          "date": "2026-09-12",
-          "rank": 34
-        },
-        {
-          "date": "2026-09-13",
-          "rank": 33
-        },
-        {
-          "date": "2026-09-14",
-          "rank": 25
-        },
-        {
-          "date": "2026-09-15",
-          "rank": 43
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 43
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 38
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 34
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 34
-        }
-      ]
-    },
-    {
-      "appid": 5154020,
-      "name": "滩头阻击",
-      "releaseDateRaw": "September 2026",
-      "releaseDateISO": "2026-09-28",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5154020/5cc08a1a1e61c3b5eeaa9d7c6f3ba2595bceca74/capsule_231x87.jpg?t=1789315550",
+      "priceText": "Free",
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487470/036fc3df32ec2fad238e7de6b70765379690bee0/capsule_231x87.jpg?t=1787075796",
       "tags": [
         "FPS"
       ],
@@ -5118,26 +5532,30 @@
       "series": [
         {
           "date": "2026-09-14",
-          "rank": 48
+          "rank": 43
         },
         {
           "date": "2026-09-15",
-          "rank": 45
+          "rank": 40
         },
         {
           "date": "2026-09-16",
-          "rank": 44
+          "rank": 40
         },
         {
           "date": "2026-09-17",
-          "rank": 39
+          "rank": 35
         },
         {
           "date": "2026-09-18",
-          "rank": 33
+          "rank": 31
         },
         {
           "date": "2026-09-19",
+          "rank": 32
+        },
+        {
+          "date": "2026-09-20",
           "rank": 35
         }
       ]
@@ -5173,6 +5591,118 @@
         {
           "date": "2026-09-19",
           "rank": 36
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 36
+        }
+      ]
+    },
+    {
+      "appid": 5154020,
+      "name": "滩头阻击",
+      "releaseDateRaw": "September 2026",
+      "releaseDateISO": "2026-09-28",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5154020/5cc08a1a1e61c3b5eeaa9d7c6f3ba2595bceca74/capsule_231x87.jpg?t=1789315550",
+      "tags": [
+        "FPS"
+      ],
+      "bestRank": 37,
+      "delta": null,
+      "bucket": "Next 30 days",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-14",
+          "rank": 48
+        },
+        {
+          "date": "2026-09-15",
+          "rank": 45
+        },
+        {
+          "date": "2026-09-16",
+          "rank": 44
+        },
+        {
+          "date": "2026-09-17",
+          "rank": 39
+        },
+        {
+          "date": "2026-09-18",
+          "rank": 33
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 35
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 37
+        }
+      ]
+    },
+    {
+      "appid": 4487280,
+      "name": "HazardousExtractions",
+      "releaseDateRaw": "Q3 2026",
+      "releaseDateISO": "2026-09-28",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4487280/5f44e2466396db28cad7a6a73699173215ff4c79/capsule_231x87.jpg?t=1789656355",
+      "tags": [
+        "FPS"
+      ],
+      "bestRank": 38,
+      "delta": -5,
+      "bucket": "Next 30 days",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-10",
+          "rank": 38
+        },
+        {
+          "date": "2026-09-11",
+          "rank": 35
+        },
+        {
+          "date": "2026-09-12",
+          "rank": 34
+        },
+        {
+          "date": "2026-09-13",
+          "rank": 33
+        },
+        {
+          "date": "2026-09-14",
+          "rank": 25
+        },
+        {
+          "date": "2026-09-15",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-16",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-17",
+          "rank": 38
+        },
+        {
+          "date": "2026-09-18",
+          "rank": 34
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 34
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 38
         }
       ]
     },
@@ -5187,7 +5717,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 37,
+      "bestRank": 39,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5211,6 +5741,10 @@
         {
           "date": "2026-09-19",
           "rank": 37
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 39
         }
       ]
     },
@@ -5225,7 +5759,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 38,
+      "bestRank": 40,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5253,6 +5787,44 @@
         {
           "date": "2026-09-19",
           "rank": 38
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 40
+        }
+      ]
+    },
+    {
+      "appid": 5196540,
+      "name": "DAWN OF THE ROTTEN",
+      "releaseDateRaw": "September 2026",
+      "releaseDateISO": "2026-09-28",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5196540/34a30b73512ecb778a62dbd18fd0cbe877dc4b62/capsule_231x87.jpg?t=1789485071",
+      "tags": [
+        "FPS"
+      ],
+      "bestRank": 41,
+      "delta": null,
+      "bucket": "Next 30 days",
+      "pinned": false,
+      "series": [
+        {
+          "date": "2026-09-17",
+          "rank": 47
+        },
+        {
+          "date": "2026-09-18",
+          "rank": 41
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 40
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 41
         }
       ]
     },
@@ -5267,7 +5839,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 39,
+      "bestRank": 42,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5287,36 +5859,10 @@
         {
           "date": "2026-09-19",
           "rank": 39
-        }
-      ]
-    },
-    {
-      "appid": 5196540,
-      "name": "DAWN OF THE ROTTEN",
-      "releaseDateRaw": "September 2026",
-      "releaseDateISO": "2026-09-28",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5196540/34a30b73512ecb778a62dbd18fd0cbe877dc4b62/capsule_231x87.jpg?t=1789485071",
-      "tags": [
-        "FPS"
-      ],
-      "bestRank": 40,
-      "delta": null,
-      "bucket": "Next 30 days",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-17",
-          "rank": 47
         },
         {
-          "date": "2026-09-18",
-          "rank": 41
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 40
+          "date": "2026-09-20",
+          "rank": 42
         }
       ]
     },
@@ -5331,7 +5877,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 41,
+      "bestRank": 43,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5347,6 +5893,10 @@
         {
           "date": "2026-09-19",
           "rank": 41
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 43
         }
       ]
     },
@@ -5361,7 +5911,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 42,
+      "bestRank": 44,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5385,6 +5935,10 @@
         {
           "date": "2026-09-19",
           "rank": 42
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 44
         }
       ]
     },
@@ -5399,7 +5953,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 43,
+      "bestRank": 45,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5411,6 +5965,10 @@
         {
           "date": "2026-09-19",
           "rank": 43
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 45
         }
       ]
     },
@@ -5425,7 +5983,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 44,
+      "bestRank": 46,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5437,6 +5995,10 @@
         {
           "date": "2026-09-19",
           "rank": 44
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 46
         }
       ]
     },
@@ -5451,7 +6013,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 45,
+      "bestRank": 47,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5463,32 +6025,10 @@
         {
           "date": "2026-09-19",
           "rank": 45
-        }
-      ]
-    },
-    {
-      "appid": 4836740,
-      "name": "Feed Me Harvest",
-      "releaseDateRaw": "Q3 2026",
-      "releaseDateISO": "2026-09-28",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4836740/0362aed670cbc1eeb42c4f0fa6b8b5d78b92be63/capsule_231x87.jpg?t=1783127379",
-      "tags": [
-        "FPS"
-      ],
-      "bestRank": 46,
-      "delta": null,
-      "bucket": "Next 30 days",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 45
         },
         {
-          "date": "2026-09-19",
-          "rank": 46
+          "date": "2026-09-20",
+          "rank": 47
         }
       ]
     },
@@ -5519,32 +6059,10 @@
         {
           "date": "2026-09-19",
           "rank": 34
-        }
-      ]
-    },
-    {
-      "appid": 3630680,
-      "name": "Galaxy Critter Co.",
-      "releaseDateRaw": "Sep 28, 2026",
-      "releaseDateISO": "2026-09-28",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3630680/150fa05b169e42cd4a378ac4c0d38da616d27875/capsule_231x87.jpg?t=1789403222",
-      "tags": [
-        "Roguelike"
-      ],
-      "bestRank": 46,
-      "delta": null,
-      "bucket": "Next 30 days",
-      "pinned": false,
-      "series": [
-        {
-          "date": "2026-09-18",
-          "rank": 48
         },
         {
-          "date": "2026-09-19",
-          "rank": 46
+          "date": "2026-09-20",
+          "rank": 34
         }
       ]
     },
@@ -5559,7 +6077,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 47,
+      "bestRank": 48,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5567,6 +6085,10 @@
         {
           "date": "2026-09-19",
           "rank": 47
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 48
         }
       ]
     },
@@ -5581,8 +6103,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 3,
-      "delta": 7,
+      "bestRank": 4,
+      "delta": 5,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -5625,6 +6147,10 @@
         {
           "date": "2026-09-19",
           "rank": 3
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 4
         }
       ]
     },
@@ -5639,8 +6165,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 8,
-      "delta": 10,
+      "bestRank": 7,
+      "delta": 12,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -5683,28 +6209,10 @@
         {
           "date": "2026-09-19",
           "rank": 8
-        }
-      ]
-    },
-    {
-      "appid": 3917700,
-      "name": "Dicevaders",
-      "releaseDateRaw": "Sep 29, 2026",
-      "releaseDateISO": "2026-09-29",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3917700/fde8cdcf4440e2b568fbd7384b4c4498112dc5dc/capsule_231x87.jpg?t=1789583099",
-      "tags": [
-        "Roguelike"
-      ],
-      "bestRank": 48,
-      "delta": null,
-      "bucket": "Next 30 days",
-      "pinned": false,
-      "series": [
+        },
         {
-          "date": "2026-09-19",
-          "rank": 48
+          "date": "2026-09-20",
+          "rank": 7
         }
       ]
     },
@@ -5719,7 +6227,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 19,
+      "bestRank": 18,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5735,6 +6243,10 @@
         {
           "date": "2026-09-19",
           "rank": 19
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 18
         }
       ]
     },
@@ -5765,6 +6277,10 @@
         {
           "date": "2026-09-19",
           "rank": 22
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 22
         }
       ]
     },
@@ -5779,7 +6295,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 30,
+      "bestRank": 25,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5787,6 +6303,10 @@
         {
           "date": "2026-09-19",
           "rank": 30
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 25
         }
       ]
     },
@@ -5801,8 +6321,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 26,
-      "delta": 20,
+      "bestRank": 28,
+      "delta": 17,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -5841,6 +6361,10 @@
         {
           "date": "2026-09-19",
           "rank": 26
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 28
         }
       ]
     },
@@ -5855,8 +6379,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 10,
-      "delta": 29,
+      "bestRank": 6,
+      "delta": 32,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -5899,6 +6423,10 @@
         {
           "date": "2026-09-19",
           "rank": 10
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 6
         }
       ]
     },
@@ -5913,7 +6441,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 27,
+      "bestRank": 26,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5929,6 +6457,10 @@
         {
           "date": "2026-09-19",
           "rank": 27
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 26
         }
       ]
     },
@@ -5943,7 +6475,7 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 23,
+      "bestRank": 24,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -5971,6 +6503,10 @@
         {
           "date": "2026-09-19",
           "rank": 23
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 24
         }
       ]
     },
@@ -5985,8 +6521,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 4,
-      "delta": 4,
+      "bestRank": 5,
+      "delta": 3,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -6029,6 +6565,10 @@
         {
           "date": "2026-09-19",
           "rank": 4
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 5
         }
       ]
     },
@@ -6043,7 +6583,7 @@
       "tags": [
         "Roguelike"
       ],
-      "bestRank": 24,
+      "bestRank": 23,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -6067,6 +6607,10 @@
         {
           "date": "2026-09-19",
           "rank": 24
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 23
         }
       ]
     },
@@ -6081,7 +6625,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 28,
+      "bestRank": 30,
       "delta": null,
       "bucket": "Next 30 days",
       "pinned": false,
@@ -6093,6 +6637,10 @@
         {
           "date": "2026-09-19",
           "rank": 28
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 30
         }
       ]
     },
@@ -6107,8 +6655,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 19,
-      "delta": 5,
+      "bestRank": 20,
+      "delta": 6,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -6151,6 +6699,10 @@
         {
           "date": "2026-09-19",
           "rank": 19
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 20
         }
       ]
     },
@@ -6165,8 +6717,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 17,
-      "delta": -1,
+      "bestRank": 20,
+      "delta": 0,
       "bucket": "Next 30 days",
       "pinned": false,
       "series": [
@@ -6209,6 +6761,10 @@
         {
           "date": "2026-09-19",
           "rank": 17
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 20
         }
       ]
     },
@@ -6223,8 +6779,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 25,
-      "delta": 2,
+      "bestRank": 35,
+      "delta": -4,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6267,6 +6823,10 @@
         {
           "date": "2026-09-19",
           "rank": 25
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 35
         }
       ]
     },
@@ -6281,7 +6841,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 7,
+      "bestRank": 8,
       "delta": 2,
       "bucket": "Next 4 months",
       "pinned": false,
@@ -6325,6 +6885,10 @@
         {
           "date": "2026-09-19",
           "rank": 7
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 8
         }
       ]
     },
@@ -6339,8 +6903,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 11,
-      "delta": -8,
+      "bestRank": 13,
+      "delta": -10,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6383,6 +6947,10 @@
         {
           "date": "2026-09-19",
           "rank": 11
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 13
         }
       ]
     },
@@ -6397,8 +6965,8 @@
       "tags": [
         "FPS"
       ],
-      "bestRank": 4,
-      "delta": -2,
+      "bestRank": 9,
+      "delta": -6,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6441,6 +7009,10 @@
         {
           "date": "2026-09-19",
           "rank": 4
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 9
         }
       ]
     },
@@ -6456,7 +7028,7 @@
         "RPG"
       ],
       "bestRank": 9,
-      "delta": null,
+      "delta": 8,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6487,6 +7059,10 @@
         {
           "date": "2026-09-19",
           "rank": 9
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 9
         }
       ]
     },
@@ -6501,8 +7077,8 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 10,
-      "delta": 2,
+      "bestRank": 11,
+      "delta": 1,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6545,6 +7121,10 @@
         {
           "date": "2026-09-19",
           "rank": 10
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 11
         }
       ]
     },
@@ -6559,7 +7139,7 @@
       "tags": [
         "RPG"
       ],
-      "bestRank": 15,
+      "bestRank": 16,
       "delta": null,
       "bucket": "Next 4 months",
       "pinned": false,
@@ -6587,6 +7167,10 @@
         {
           "date": "2026-09-19",
           "rank": 15
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 16
         }
       ]
     },
@@ -6603,8 +7187,8 @@
         "Indie",
         "Roguelike"
       ],
-      "bestRank": 3,
-      "delta": 31,
+      "bestRank": 5,
+      "delta": 21,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6643,6 +7227,10 @@
         {
           "date": "2026-09-19",
           "rank": 3
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 5
         }
       ]
     },
@@ -6657,8 +7245,8 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 12,
-      "delta": -3,
+      "bestRank": 16,
+      "delta": -4,
       "bucket": "Next 4 months",
       "pinned": false,
       "series": [
@@ -6701,6 +7289,10 @@
         {
           "date": "2026-09-19",
           "rank": 12
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 16
         }
       ]
     },
@@ -6715,7 +7307,7 @@
       "tags": [
         "Indie"
       ],
-      "bestRank": 18,
+      "bestRank": 21,
       "delta": null,
       "bucket": "Further out",
       "pinned": false,
@@ -6735,6 +7327,10 @@
         {
           "date": "2026-09-19",
           "rank": 18
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 21
         }
       ]
     }
