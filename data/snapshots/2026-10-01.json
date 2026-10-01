@@ -1,0 +1,3824 @@
+{
+  "takenAt": "2026-10-01T19:19:31.923Z",
+  "categories": {
+    "122": {
+      "tagName": "RPG",
+      "totalCount": 13019,
+      "ranked": [
+        {
+          "appid": 3393110,
+          "rank": 1,
+          "name": "AION 2",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            113,
+            1754,
+            128,
+            21,
+            1695,
+            122,
+            4747
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg?t=1790806400"
+        },
+        {
+          "appid": 2254990,
+          "rank": 2,
+          "name": "Permafrost",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            3843,
+            1100689,
+            1662,
+            3834,
+            1702,
+            1643
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254990/024db5584cd87b23dd37229e049378f2d4828bdb/capsule_231x87.jpg?t=1790751305"
+        },
+        {
+          "appid": 4231820,
+          "rank": 3,
+          "name": "Castlevania: Belmont's Curse",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 2999,
+          "priceText": "$29.99",
+          "tagIds": [
+            1628,
+            19,
+            4231,
+            122,
+            4106,
+            1625,
+            5379
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4231820/2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg?t=1788478863"
+        },
+        {
+          "appid": 4348910,
+          "rank": 4,
+          "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+          "releaseDateRaw": "Oct 28, 2026",
+          "releaseDateISO": "2026-10-28",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            91114,
+            599,
+            4202,
+            12472,
+            1702,
+            4115,
+            35079
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348910/b34bac92cd37260ecead20b181eda3d0f928a373/capsule_231x87.jpg?t=1790493518"
+        },
+        {
+          "appid": 4115450,
+          "rank": 5,
+          "name": "Phantom Blade Zero",
+          "releaseDateRaw": "Oct 28, 2026",
+          "releaseDateISO": "2026-10-28",
+          "priceCents": 5999,
+          "priceText": "$59.99",
+          "tagIds": [
+            4231,
+            6915,
+            19,
+            25959,
+            4604,
+            29482,
+            122
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1787142639"
+        },
+        {
+          "appid": 2828710,
+          "rank": 6,
+          "name": "Valor Mortis",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            29482,
+            3839,
+            122,
+            4026,
+            1678,
+            19,
+            4604
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2828710/c845c26a71524fa38b25c3b3da23a384de7d1436/capsule_231x87.jpg?t=1790264547"
+        },
+        {
+          "appid": 3785860,
+          "rank": 7,
+          "name": "Mycopsychosys: Project Jupiter",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            492,
+            122,
+            1667,
+            21,
+            3978,
+            4106
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3785860/4ef68342632b80ded508266c88470315affd25d8/capsule_231x87.jpg?t=1790140947"
+        },
+        {
+          "appid": 3259780,
+          "rank": 8,
+          "name": "FINAL FANTASY RESONANCE",
+          "releaseDateRaw": "Oct 22, 2026",
+          "releaseDateISO": "2026-10-22",
+          "priceCents": 4999,
+          "priceText": "$49.99",
+          "tagIds": [
+            122,
+            4325,
+            3964,
+            4434,
+            4975,
+            1742,
+            10695
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3259780/6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg?t=1788534743"
+        },
+        {
+          "appid": 2295170,
+          "rank": 9,
+          "name": "Emberville",
+          "releaseDateRaw": "Oct 27, 2026",
+          "releaseDateISO": "2026-10-27",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            4231,
+            4106,
+            122,
+            3964,
+            492,
+            3834
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2295170/ad089cece8b69edd93d675684bf48b244c06e461/capsule_231x87.jpg?t=1790684458"
+        },
+        {
+          "appid": 4989520,
+          "rank": 10,
+          "name": "Immortal Zenith: Idle to Ascension",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            122,
+            599,
+            1754,
+            1716,
+            615955,
+            560542,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989520/244a67af555e6b962397c993050ec51a38ff5c2a/capsule_231x87.jpg?t=1790811278"
+        },
+        {
+          "appid": 4956970,
+          "rank": 11,
+          "name": "Chalk Paper Scissors",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            597,
+            11014,
+            1698,
+            3799,
+            7208,
+            122,
+            6815
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4956970/54c3524870ef66bda1fafdf27d35bcda5361eb28/capsule_231x87.jpg?t=1787963282"
+        },
+        {
+          "appid": 5149410,
+          "rank": 12,
+          "name": "Nova Slash",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            122,
+            42804,
+            4158,
+            5379,
+            1646,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5149410/fa1ef7d93900837f7d63d66cdaa65a7578383468/capsule_231x87.jpg?t=1790726696"
+        },
+        {
+          "appid": 4762810,
+          "rank": 13,
+          "name": "SpyCat: Codename Wu",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            19,
+            4106,
+            1625,
+            5379,
+            5537,
+            3877
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4762810/da513ba276de8db53f655f0c1053d7874725026a/capsule_231x87.jpg?t=1790739334"
+        },
+        {
+          "appid": 5223280,
+          "rank": 14,
+          "name": "THE MIDNIGHT QUEENS 2",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            9,
+            4305,
+            7208,
+            4726,
+            3871,
+            1695
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5223280/b01456efbad12ff0d5529d12f5d90bea6c2713b1/capsule_231x87.jpg?t=1790379171"
+        },
+        {
+          "appid": 5228630,
+          "rank": 15,
+          "name": "Ever Below",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            1720,
+            3959,
+            4325,
+            10695,
+            21,
+            5125
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228630/75fba825c71fb5889abe4d912b02772960b2e159/capsule_231x87.jpg?t=1789809937"
+        },
+        {
+          "appid": 5230000,
+          "rank": 16,
+          "name": "Splash Park Tycoon",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            599,
+            615955,
+            560542,
+            16689,
+            9204,
+            97376,
+            12472
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5230000/45f0d60bc2fd023ef5a59f81692343495377604d/capsule_231x87.jpg?t=1790468093"
+        },
+        {
+          "appid": 2967950,
+          "rank": 17,
+          "name": "The Witch's Bakery",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            97376,
+            1742,
+            3871,
+            4057,
+            21,
+            6815,
+            122
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967950/b6d0cb065ec2cd15bc0b0967c5ee3ec5cac345d4/capsule_231x87.jpg?t=1790870091"
+        },
+        {
+          "appid": 4401480,
+          "rank": 18,
+          "name": "Rorasuketo",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4434,
+            96359,
+            42152,
+            1742,
+            597,
+            122,
+            4559
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4401480/048469bd08e5f25a9322c195cac714a7b1c76049/capsule_231x87.jpg?t=1790651027"
+        },
+        {
+          "appid": 3212940,
+          "rank": 19,
+          "name": "Meteor Raiders",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            42804,
+            492,
+            4885,
+            3964,
+            4182,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3212940/9ae3df46d4ae884a1cdc54f6725d0b10aed66221/capsule_231x87.jpg?t=1790531763"
+        },
+        {
+          "appid": 1965550,
+          "rank": 20,
+          "name": "Wildaria",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            916648,
+            3964,
+            21,
+            1695,
+            122,
+            3834
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1965550/f65b23d6bd50a5fd8e34cea148615332abae50a2/capsule_231x87.jpg?t=1790096767"
+        },
+        {
+          "appid": 3470960,
+          "rank": 21,
+          "name": "Tales of Eternia Remastered",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            4434,
+            4231,
+            3871,
+            1684,
+            4004,
+            5608
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3470960/21ef3b5cc2964971d83b1c9957d557a0a8a5a680/capsule_231x87.jpg?t=1784005616"
+        },
+        {
+          "appid": 4459980,
+          "rank": 22,
+          "name": "Catventure",
+          "releaseDateRaw": "Oct 4, 2026",
+          "releaseDateISO": "2026-10-04",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            122,
+            615955,
+            3871,
+            3964,
+            4726,
+            1654
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4459980/4f014569a6aef01ed0f9c2d4cd1f9569a16d1705/capsule_231x87.jpg?t=1789983280"
+        },
+        {
+          "appid": 4424740,
+          "rank": 23,
+          "name": "Agent of Strange: Arrival",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            122,
+            1721,
+            21,
+            1667,
+            1742,
+            4166,
+            5186
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4424740/f5da3a47f3e6186b36b6286d69a3da34bdc8836e/capsule_231x87.jpg?t=1790846608"
+        },
+        {
+          "appid": 5238890,
+          "rank": 24,
+          "name": "Catkin Hollow: The Moonbell Mystery",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            122,
+            4231,
+            4106,
+            5379,
+            4791,
+            4004
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5238890/2cf556ac295f2b73ddb0f582149c313ee89a95b9/capsule_231x87.jpg?t=1790687081"
+        },
+        {
+          "appid": 4282780,
+          "rank": 25,
+          "name": "Duelist: Idle Expedition",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1320952,
+            4434,
+            3964,
+            21,
+            9,
+            615955,
+            560542
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4282780/56d560f272ae73d1e6317a6b7d0aa981b3f2fcb1/capsule_231x87.jpg?t=1790783071"
+        },
+        {
+          "appid": 5220450,
+          "rank": 26,
+          "name": "Chefarzt",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            597,
+            122,
+            599,
+            701,
+            9,
+            10235
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5220450/cd840be605cf86237eabb8891b82bfe2657e44fc/capsule_231x87.jpg?t=1790855902"
+        },
+        {
+          "appid": 4928620,
+          "rank": 27,
+          "name": "Ancestral Orb",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            4325,
+            4182,
+            4474,
+            3834,
+            3871,
+            1741
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4928620/3736873ac6db567bd958ce01c9fe00f42cf1ab17/capsule_231x87.jpg?t=1790408630"
+        },
+        {
+          "appid": 1916200,
+          "rank": 28,
+          "name": "Entitled",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            599,
+            21,
+            19995,
+            122,
+            4845,
+            1036
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1916200/e25f775dce84e0d23c2ea4656cc777f719a1f3de/capsule_231x87.jpg?t=1787475704"
+        },
+        {
+          "appid": 4632760,
+          "rank": 29,
+          "name": "VoidFall",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            42804,
+            3959,
+            19,
+            4747,
+            122,
+            3839,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4632760/22cdb6f45be97154fe60732d0fd97514dfe370e3/capsule_231x87.jpg?t=1789883946"
+        },
+        {
+          "appid": 5285560,
+          "rank": 30,
+          "name": "Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            701,
+            122,
+            1254546,
+            21,
+            4106,
+            1773,
+            4434
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5285560/cbc8ed043e4b5c5992b7871e6d5c6a3a6b39df20/capsule_231x87.jpg?t=1790796726"
+        },
+        {
+          "appid": 5280030,
+          "rank": 31,
+          "name": "The Road Remembers",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            31275,
+            6426,
+            1684,
+            4155,
+            1716,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5280030/319776e7f04dcdce28391532eb850200e1e6dab5/capsule_231x87.jpg?t=1790728483"
+        },
+        {
+          "appid": 4955350,
+          "rank": 32,
+          "name": "Face Your Fate",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1091588,
+            791774,
+            3959,
+            1666,
+            3964,
+            32322,
+            1716
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955350/1888ea898d894780194f89ab569cdded1d9a00e8/capsule_231x87.jpg?t=1790227063"
+        },
+        {
+          "appid": 5087060,
+          "rank": 33,
+          "name": "Gravebound Rising",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            122,
+            9,
+            1084988,
+            4328,
+            220585,
+            42804
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5087060/82acc6c50bae05e726b573716c8787c2ff382eab/capsule_231x87.jpg?t=1790801302"
+        },
+        {
+          "appid": 4052150,
+          "rank": 34,
+          "name": "Paunchy Pets",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            916648,
+            597,
+            1773,
+            19,
+            8093,
+            87918,
+            1084988
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4052150/bc0deff095920a88a14f5c01f13698ed01ff75f5/capsule_231x87.jpg?t=1790307532"
+        },
+        {
+          "appid": 4642120,
+          "rank": 35,
+          "name": "It Hears You: Together",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            19,
+            122,
+            4106,
+            5900,
+            4191,
+            3839
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4642120/8691570ff8567d7609ebef461404c9295e232ef4/capsule_231x87.jpg?t=1790093976"
+        },
+        {
+          "appid": 4891720,
+          "rank": 36,
+          "name": "Hybrid Gene",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            916648,
+            3813,
+            19,
+            122,
+            3993,
+            7481,
+            6730
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4891720/0fbf2e86949c628153b8e7bbd69c6b0e83fc4840/capsule_231x87.jpg?t=1790040645"
+        },
+        {
+          "appid": 5238140,
+          "rank": 37,
+          "name": "The Only Eye: Arcane Legacy",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3959,
+            42804,
+            5379,
+            122,
+            3964,
+            19,
+            4604
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5238140/d636cbfeedf1444a0c540bcfe7521e9ad6504410/capsule_231x87.jpg?t=1790613292"
+        },
+        {
+          "appid": 2561630,
+          "rank": 38,
+          "name": "Moonfrost",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            122,
+            10235,
+            599,
+            87918,
+            3834,
+            21
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2561630/b7efc113ea5f506f03a7d25923c8a4de18b46c6e/capsule_231x87.jpg?t=1790867904"
+        },
+        {
+          "appid": 5250790,
+          "rank": 39,
+          "name": "Mortal Xiuxian",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            615955,
+            122,
+            599,
+            760247,
+            31275,
+            24003
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5250790/b966e18511cd062f3ca96d1e068e3a6ef7a3cb58/capsule_231x87.jpg?t=1790593918"
+        },
+        {
+          "appid": 5327690,
+          "rank": 40,
+          "name": "Hauberk",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            454187,
+            5125,
+            1720,
+            122,
+            255534,
+            4325,
+            560542
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5327690/d8ce21af2cf7033d733f9a5fe8a708a62f1f2ed7/capsule_231x87.jpg?t=1790823547"
+        },
+        {
+          "appid": 4059000,
+          "rank": 41,
+          "name": "Cozy Builder",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3859,
+            97376,
+            1654,
+            3834,
+            599,
+            4726,
+            3964
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4059000/7b9e68bd3e67ccdbefbf800627ea58242f5a510e/capsule_231x87.jpg?t=1788537667"
+        },
+        {
+          "appid": 4221660,
+          "rank": 42,
+          "name": "DungeonOS",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1720,
+            4236,
+            1664,
+            1741,
+            4004,
+            3916,
+            16689
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4221660/0cc7ebf69205e0e35adba50f9adf9c7c5c265516/capsule_231x87.jpg?t=1789105563"
+        },
+        {
+          "appid": 4857310,
+          "rank": 43,
+          "name": "Pearl - Meeting on an Autumn Day -",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            122,
+            3799,
+            11014,
+            9551,
+            31275,
+            4726,
+            4085
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4857310/ff242a9aba551d4cacc6010b50632de494da117c/capsule_231x87.jpg?t=1790159483"
+        }
+      ]
+    },
+    "492": {
+      "tagName": "Indie",
+      "totalCount": 29572,
+      "ranked": [
+        {
+          "appid": 2680280,
+          "rank": 1,
+          "name": "PAPERHEAD",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1663,
+            1734,
+            4345,
+            1023537,
+            4182,
+            3839,
+            19
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1790172973"
+        },
+        {
+          "appid": 4968640,
+          "rank": 2,
+          "name": "Japanese Ramen Simulator",
+          "releaseDateRaw": "October 2026",
+          "releaseDateISO": "2026-10-28",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            3920,
+            3843,
+            4175,
+            4191,
+            1663,
+            1669
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968640/c87a37a5d10a2ac11bf2ab4aded25ca9bc657e12/capsule_231x87.jpg?t=1790867392"
+        },
+        {
+          "appid": 1215940,
+          "rank": 3,
+          "name": "Forever Ago",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            492,
+            1742,
+            3834,
+            4166,
+            4182,
+            5900
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1215940/fcac2e5dedea70175b16964b82cc70bdec730513/capsule_231x87.jpg?t=1790790784"
+        },
+        {
+          "appid": 2929250,
+          "rank": 4,
+          "name": "over the hill",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1644,
+            1685,
+            3859,
+            21,
+            7622,
+            1695,
+            699
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2929250/36a5e318291b96b49df81d3d5de731b19c094a2b/capsule_231x87.jpg?t=1790589234"
+        },
+        {
+          "appid": 3883570,
+          "rank": 5,
+          "name": "Invokyr",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            1667,
+            3843,
+            1685,
+            3978,
+            3839,
+            3859
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883570/5af07df8afce5c9e5feb755c2b47a277f679399a/capsule_231x87.jpg?t=1790841310"
+        },
+        {
+          "appid": 3737680,
+          "rank": 6,
+          "name": "Bloodspill",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1023537,
+            5547,
+            19,
+            1663,
+            1775,
+            1734,
+            1774
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3737680/d6eaeff74fbbd0642ab1d9aa7ce4a21048d0a00c/capsule_231x87.jpg?t=1790850881"
+        },
+        {
+          "appid": 3785860,
+          "rank": 7,
+          "name": "Mycopsychosys: Project Jupiter",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            492,
+            122,
+            1667,
+            21,
+            3978,
+            4106
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3785860/4ef68342632b80ded508266c88470315affd25d8/capsule_231x87.jpg?t=1790140947"
+        },
+        {
+          "appid": 4534960,
+          "rank": 8,
+          "name": "Dear Passengers",
+          "releaseDateRaw": "2026",
+          "releaseDateISO": "2026-12-31",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3859,
+            4136,
+            3843,
+            1685,
+            1719,
+            19,
+            113
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4534960/d7b0a9376fb4cab61548730f3e98d3ba1935bc9d/capsule_231x87.jpg?t=1787132605"
+        },
+        {
+          "appid": 5160800,
+          "rank": 9,
+          "name": "Find The Needle",
+          "releaseDateRaw": "Q4 2026",
+          "releaseDateISO": "2026-12-28",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            255534,
+            560542,
+            3968,
+            7332,
+            597,
+            12472
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5160800/3dec380fa3c66a40ffc1d36be2ac518cf9dcda05/capsule_231x87.jpg?t=1790467021"
+        },
+        {
+          "appid": 499170,
+          "rank": 10,
+          "name": "Order of the Sinking Star",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1664,
+            21,
+            1730,
+            3834,
+            4191,
+            4791,
+            1684
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/395519d87cc923a64bfa8834b02efb3c4ac8a565/capsule_231x87.jpg?t=1790865583"
+        },
+        {
+          "appid": 2295170,
+          "rank": 11,
+          "name": "Emberville",
+          "releaseDateRaw": "Oct 27, 2026",
+          "releaseDateISO": "2026-10-27",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            4231,
+            4106,
+            122,
+            3964,
+            492,
+            3834
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2295170/ad089cece8b69edd93d675684bf48b244c06e461/capsule_231x87.jpg?t=1790684458"
+        },
+        {
+          "appid": 3412490,
+          "rank": 12,
+          "name": "Obstacle Overdrive",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            599,
+            1100687,
+            1664,
+            4191,
+            4305,
+            4726
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3412490/d41bb23e52aa2cfad947311f60102853a7d6a799/capsule_231x87.jpg?t=1790868209"
+        },
+        {
+          "appid": 5026630,
+          "rank": 13,
+          "name": "Opi Popi",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            3799,
+            21,
+            597,
+            1698,
+            1654,
+            4166,
+            97376
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5026630/6f9df1cfbc6a33bd6051223877932e256c5416dd/capsule_231x87.jpg?t=1786670651"
+        },
+        {
+          "appid": 4989520,
+          "rank": 14,
+          "name": "Immortal Zenith: Idle to Ascension",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            122,
+            599,
+            1754,
+            1716,
+            615955,
+            560542,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989520/244a67af555e6b962397c993050ec51a38ff5c2a/capsule_231x87.jpg?t=1790811278"
+        },
+        {
+          "appid": 3419140,
+          "rank": 15,
+          "name": "Stickility",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1628,
+            3834,
+            3798,
+            4106,
+            5379,
+            4036,
+            1625
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419140/63680c58528a999b03b44fcc59c9eb6e24b6588a/capsule_231x87.jpg?t=1790697987"
+        },
+        {
+          "appid": 4813330,
+          "rank": 16,
+          "name": "Expat Manager",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            12472,
+            4695,
+            16689,
+            1239876,
+            4845,
+            4202
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4813330/dbac7dffc4187eef0800e7dd56b40501916c74d8/capsule_231x87.jpg?t=1781723643"
+        },
+        {
+          "appid": 4611600,
+          "rank": 17,
+          "name": "Stick Cards RNG",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            113,
+            599,
+            1666,
+            9,
+            791774,
+            16250,
+            1773
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4611600/0e885ce1923dad35d116a7e1132afa2bd246ae89/capsule_231x87.jpg?t=1789185362"
+        },
+        {
+          "appid": 4819510,
+          "rank": 18,
+          "name": "Monster Nursery",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            599,
+            4726,
+            1654,
+            615955,
+            916648,
+            4195
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4819510/ab9700507b6a81e604dfe8ffb552275077f78df9/capsule_231x87.jpg?t=1787059064"
+        },
+        {
+          "appid": 4762810,
+          "rank": 19,
+          "name": "SpyCat: Codename Wu",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            19,
+            4106,
+            1625,
+            5379,
+            5537,
+            3877
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4762810/da513ba276de8db53f655f0c1053d7874725026a/capsule_231x87.jpg?t=1790739334"
+        },
+        {
+          "appid": 5149410,
+          "rank": 20,
+          "name": "Nova Slash",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            122,
+            42804,
+            4158,
+            5379,
+            1646,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5149410/fa1ef7d93900837f7d63d66cdaa65a7578383468/capsule_231x87.jpg?t=1790726696"
+        },
+        {
+          "appid": 5047760,
+          "rank": 21,
+          "name": "Conjurariun",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            19,
+            4106,
+            3834,
+            4191,
+            4145,
+            3839
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5047760/0722ea3a5a706954fd506c2c59c9ec9be7492017/capsule_231x87.jpg?t=1790209698"
+        },
+        {
+          "appid": 5246520,
+          "rank": 22,
+          "name": "WRITE HOUSE",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            1664,
+            1730,
+            4182,
+            3964,
+            7743,
+            4342
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5246520/97b61c4c759cc2b303de4be3fecaf0b26728d9e5/capsule_231x87.jpg?t=1790037170"
+        },
+        {
+          "appid": 5223280,
+          "rank": 23,
+          "name": "THE MIDNIGHT QUEENS 2",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            9,
+            4305,
+            7208,
+            4726,
+            3871,
+            1695
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5223280/b01456efbad12ff0d5529d12f5d90bea6c2713b1/capsule_231x87.jpg?t=1790379171"
+        },
+        {
+          "appid": 5211690,
+          "rank": 24,
+          "name": "Ghillie Wars",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            7423,
+            1687,
+            1708,
+            1775,
+            3814,
+            3859,
+            1774
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5211690/93fcd2defd8f69bfecaf10035bc6962e68511273/capsule_231x87.jpg?t=1790474684"
+        },
+        {
+          "appid": 5158840,
+          "rank": 25,
+          "name": "Virtual Plant",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1320952,
+            597,
+            1654,
+            4726,
+            615955,
+            552282,
+            492
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5158840/710df54137cc6c1f067821b9c740d4bb364cea64/capsule_231x87.jpg?t=1790089188"
+        },
+        {
+          "appid": 4543490,
+          "rank": 26,
+          "name": "Infinite Museum",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3834,
+            599,
+            1738,
+            21,
+            1664,
+            4191,
+            3839
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4543490/664df2f3792801808b92c59764866a3f4d9c31c2/capsule_231x87.jpg?t=1789816442"
+        },
+        {
+          "appid": 5160660,
+          "rank": 27,
+          "name": "Bunker and Friends",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1685,
+            3843,
+            3859,
+            1667,
+            1719,
+            3839,
+            4136
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5160660/1153cc0c1e925f818b39c35f249cba5342ab1c37/capsule_231x87.jpg?t=1790554763"
+        },
+        {
+          "appid": 3845510,
+          "rank": 28,
+          "name": "Vexcell",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            597,
+            1664,
+            3871,
+            1654,
+            4400,
+            4094
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3845510/17eefc10532cc9a5574bdde34b4b0426b9227dc5/capsule_231x87.jpg?t=1790693755"
+        },
+        {
+          "appid": 5222950,
+          "rank": 29,
+          "name": "Boomfrog: Journey Through the Wild Realms",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3834,
+            5395,
+            5652,
+            19,
+            1625,
+            4106,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5222950/9ee3b4031ef721a607035a823c0f533960f82829/capsule_231x87.jpg?t=1789071986"
+        },
+        {
+          "appid": 3115160,
+          "rank": 30,
+          "name": "Warhammer 40,000: Boltgun 2",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1023537,
+            1663,
+            4004,
+            3839,
+            4667,
+            1774
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3115160/a41870d91ff8f8e27b95c9f8aec1b2bfc357f1e3/capsule_231x87.jpg?t=1790785313"
+        },
+        {
+          "appid": 5219520,
+          "rank": 31,
+          "name": "Sediment",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3810,
+            255534,
+            1643,
+            4695,
+            1036,
+            597,
+            599
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5219520/e37e2c10a058a1c923efa580571f221f45e8fb99/capsule_231x87.jpg?t=1790322540"
+        },
+        {
+          "appid": 5275800,
+          "rank": 32,
+          "name": "Apocalypse Intern",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            3799,
+            1674,
+            4085,
+            4166,
+            1719,
+            5923
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5275800/9ee2527b93b65f464d0304041a64f0575af87cf8/capsule_231x87.jpg?t=1790323342"
+        },
+        {
+          "appid": 5241100,
+          "rank": 33,
+          "name": "Wind's Road",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1664,
+            3964,
+            7569,
+            1720,
+            1730,
+            3871
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5241100/7b436474ab2f36949fa641e1304b60d88169f8a9/capsule_231x87.jpg?t=1790415629"
+        },
+        {
+          "appid": 5037740,
+          "rank": 34,
+          "name": "LOUGAWOU",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1667,
+            1721,
+            21,
+            3839,
+            4182,
+            3978,
+            1742
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5037740/9d27d52c145461727cb91facd13729457c51a65b/capsule_231x87.jpg?t=1786699208"
+        },
+        {
+          "appid": 4958470,
+          "rank": 35,
+          "name": "MarbleGo",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            9,
+            560542,
+            1654,
+            615955,
+            4182,
+            1741
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4958470/124202111a614c1f5397fe340000e47fb59db051/capsule_231x87.jpg?t=1790679619"
+        },
+        {
+          "appid": 4951740,
+          "rank": 36,
+          "name": "謎好きサンタからの挑戦状",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            9,
+            10437,
+            1664,
+            6129,
+            1698,
+            24003
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4951740/22758546d7ae9714f2f79fa07dee7a7ceb7291ca/capsule_231x87.jpg?t=1788508560"
+        },
+        {
+          "appid": 4699770,
+          "rank": 37,
+          "name": "Babel Legacy",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            9,
+            492,
+            560542,
+            599,
+            615955,
+            1654
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4699770/d1b1768174a679272c1666eb902ab297d73f128d/capsule_231x87.jpg?t=1790749541"
+        },
+        {
+          "appid": 5314070,
+          "rank": 38,
+          "name": "CHAMBER 13",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            560542,
+            599,
+            615955,
+            255534,
+            597,
+            3810,
+            492
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5314070/d2ed2d6775605a9ef2ad16ba42a580c7aef344e5/capsule_231x87.jpg?t=1790360599"
+        },
+        {
+          "appid": 3768400,
+          "rank": 39,
+          "name": "Gridlords",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            1084988,
+            14139,
+            3871,
+            3964,
+            1643,
+            1684
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768400/c22decd1eace9e57ad8411f822cd3393fa4197f7/capsule_231x87.jpg?t=1790177037"
+        },
+        {
+          "appid": 5228630,
+          "rank": 40,
+          "name": "Ever Below",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            1720,
+            3959,
+            4325,
+            10695,
+            21,
+            5125
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228630/75fba825c71fb5889abe4d912b02772960b2e159/capsule_231x87.jpg?t=1789809937"
+        },
+        {
+          "appid": 4367430,
+          "rank": 41,
+          "name": "Fill That Pig",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            560542,
+            597,
+            8945,
+            4094,
+            9626,
+            4195,
+            3871
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4367430/ad995e1d6e0f833c72de289e5d76654655651262/capsule_231x87.jpg?t=1790818123"
+        },
+        {
+          "appid": 5179130,
+          "rank": 42,
+          "name": "Sandcastle Battle",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            7178,
+            597,
+            3859,
+            4136,
+            1669,
+            1732,
+            1643
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5179130/2f7be8575e5e370a08ff6b9a989fd11cc750e5a0/capsule_231x87.jpg?t=1789783043"
+        },
+        {
+          "appid": 2967950,
+          "rank": 43,
+          "name": "The Witch's Bakery",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            97376,
+            1742,
+            3871,
+            4057,
+            21,
+            6815,
+            122
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2967950/b6d0cb065ec2cd15bc0b0967c5ee3ec5cac345d4/capsule_231x87.jpg?t=1790870091"
+        },
+        {
+          "appid": 4803460,
+          "rank": 44,
+          "name": "From Beyond: Arcade Edition",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4255,
+            19,
+            1752,
+            1773,
+            1621,
+            4637,
+            1774
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4803460/e45286848ee39585c088bda469cd26e241f8319c/capsule_231x87.jpg?t=1790787731"
+        },
+        {
+          "appid": 5082880,
+          "rank": 45,
+          "name": "The Wendigo Lives",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1667,
+            1721,
+            3859,
+            19,
+            1775,
+            597,
+            3978
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5082880/cc22a05c4f6919e9d4186c698b682825fbb4ac6d/capsule_231x87.jpg?t=1790866327"
+        },
+        {
+          "appid": 5229750,
+          "rank": 46,
+          "name": "Blackout",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            5900,
+            3834,
+            4191,
+            4166,
+            7250,
+            492
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5229750/77359d63c49a791e6889b8e6c988d331a9521eaa/capsule_231x87.jpg?t=1790878711"
+        },
+        {
+          "appid": 5295500,
+          "rank": 47,
+          "name": "La maldición de Max",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            4106,
+            1664,
+            4191,
+            3839,
+            3978,
+            492
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5295500/ee6e03c1510dffcbc4bfee30859ba3560f4ac679/capsule_231x87.jpg?t=1790457405"
+        },
+        {
+          "appid": 5011870,
+          "rank": 48,
+          "name": "Ballad",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            599,
+            1027,
+            784,
+            597,
+            8253,
+            1752,
+            3810
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5011870/d01fbfa2044e527a12945514812d38a91d71cb42/capsule_231x87.jpg?t=1790661845"
+        }
+      ]
+    },
+    "1663": {
+      "tagName": "FPS",
+      "totalCount": 3842,
+      "ranked": [
+        {
+          "appid": 2680280,
+          "rank": 1,
+          "name": "PAPERHEAD",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1663,
+            1734,
+            4345,
+            1023537,
+            4182,
+            3839,
+            19
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1790172973"
+        },
+        {
+          "appid": 4968640,
+          "rank": 2,
+          "name": "Japanese Ramen Simulator",
+          "releaseDateRaw": "October 2026",
+          "releaseDateISO": "2026-10-28",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            3920,
+            3843,
+            4175,
+            4191,
+            1663,
+            1669
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4968640/c87a37a5d10a2ac11bf2ab4aded25ca9bc657e12/capsule_231x87.jpg?t=1790867392"
+        },
+        {
+          "appid": 3737680,
+          "rank": 3,
+          "name": "Bloodspill",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1023537,
+            5547,
+            19,
+            1663,
+            1775,
+            1734,
+            1774
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3737680/d6eaeff74fbbd0642ab1d9aa7ce4a21048d0a00c/capsule_231x87.jpg?t=1790850881"
+        },
+        {
+          "appid": 2828710,
+          "rank": 4,
+          "name": "Valor Mortis",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            29482,
+            3839,
+            122,
+            4026,
+            1678,
+            19,
+            4604
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2828710/c845c26a71524fa38b25c3b3da23a384de7d1436/capsule_231x87.jpg?t=1790264547"
+        },
+        {
+          "appid": 4435490,
+          "rank": 5,
+          "name": "Call of Duty®: Modern Warfare® 4",
+          "releaseDateRaw": "Oct 22, 2026",
+          "releaseDateISO": "2026-10-22",
+          "priceCents": 6999,
+          "priceText": "$69.99",
+          "tagIds": [
+            19,
+            1774,
+            1663,
+            3859,
+            3839,
+            1775,
+            4145
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/50d218e79ead2650bc6b7360995cc8dd3fbe2c29/capsule_231x87.jpg?t=1790698027"
+        },
+        {
+          "appid": 4094350,
+          "rank": 6,
+          "name": "Online: 404",
+          "releaseDateRaw": "Oct 16, 2026",
+          "releaseDateISO": "2026-10-16",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1662,
+            1685,
+            7332,
+            1659,
+            19,
+            1695,
+            1702
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4094350/17bdb8d4411cd33e68737f5fe9f6dddb0688cf83/capsule_231x87.jpg?t=1790773577"
+        },
+        {
+          "appid": 3115160,
+          "rank": 7,
+          "name": "Warhammer 40,000: Boltgun 2",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1023537,
+            1663,
+            4004,
+            3839,
+            4667,
+            1774
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3115160/a41870d91ff8f8e27b95c9f8aec1b2bfc357f1e3/capsule_231x87.jpg?t=1790785313"
+        },
+        {
+          "appid": 5005870,
+          "rank": 8,
+          "name": "Cash & Chaos",
+          "releaseDateRaw": "Oct 1, 2026",
+          "releaseDateISO": "2026-10-01",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            3810,
+            4191,
+            12472,
+            1685,
+            4182,
+            3843
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5005870/4954ed2441c24edfa55bcc8eecef8f9c90414a96/capsule_231x87.jpg?t=1790728219"
+        },
+        {
+          "appid": 5119800,
+          "rank": 9,
+          "name": "GODSPEED",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            5547,
+            1663,
+            4026,
+            19,
+            4885,
+            1774,
+            4342
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119800/46a8824ca5404234a844b1a8453f6bf0a22efe65/capsule_231x87.jpg?t=1788547973"
+        },
+        {
+          "appid": 5182260,
+          "rank": 10,
+          "name": "Keyboard Chaos",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            599,
+            1664,
+            5537,
+            1738,
+            552282,
+            3834
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5182260/ddea32ecd6a391cacfc464f502173cb217afa274/capsule_231x87.jpg?t=1789321832"
+        },
+        {
+          "appid": 4080520,
+          "rank": 11,
+          "name": "Horns of Deliverance",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            42804,
+            1716,
+            1663,
+            4191,
+            1714,
+            3839
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080520/866648af73e2b28f71a7bb722953a8acf65f2ec9/capsule_231x87.jpg?t=1790144843"
+        },
+        {
+          "appid": 2688780,
+          "rank": 12,
+          "name": "Odd Town",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3834,
+            1695,
+            3810,
+            1663,
+            19,
+            4106,
+            4747
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2688780/356a1cfdbd9105ff203fc5f5eae45c90da61e82a/capsule_231x87.jpg?t=1790250381"
+        },
+        {
+          "appid": 5284210,
+          "rank": 13,
+          "name": "Maybe Hero",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            1774,
+            1773,
+            1645,
+            7178,
+            1663,
+            5395
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5284210/b2dbb54e4c52619f592c0ee2dc56bc568057055c/capsule_231x87.jpg?t=1790783856"
+        },
+        {
+          "appid": 5251580,
+          "rank": 14,
+          "name": "Super Shooting Gallery Battle",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            19,
+            1773,
+            492,
+            7178,
+            1774,
+            5154
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5251580/650c180a95f4ab9b5d33cae77d087858d0e879ad/capsule_231x87.jpg?t=1789612543"
+        },
+        {
+          "appid": 4681250,
+          "rank": 15,
+          "name": "Kill Your Friends",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            5547,
+            7178,
+            4175,
+            1663,
+            3859,
+            597,
+            4166
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4681250/2e019e3c1db78b062ca230d1427d5baae5bf63f8/capsule_231x87.jpg?t=1790238049"
+        },
+        {
+          "appid": 4024440,
+          "rank": 16,
+          "name": "Haunted Heist",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            5711,
+            1685,
+            1775,
+            19,
+            1663,
+            4136,
+            1680
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4024440/ab9001bb1f70b895aa84db581e49fc19b9acef11/capsule_231x87.jpg?t=1790880682"
+        },
+        {
+          "appid": 5298330,
+          "rank": 17,
+          "name": "Footage: FLIR",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            11104,
+            19,
+            4168,
+            1774,
+            3839,
+            4252
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5298330/4865dc5ac2e181207935fb4b11e41f792fa1cef5/capsule_231x87.jpg?t=1790658488"
+        },
+        {
+          "appid": 5204630,
+          "rank": 18,
+          "name": "Balloon Pop 9999",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            4305,
+            5363,
+            599,
+            1239876,
+            492,
+            3968
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5204630/a3a3b37d78c211f0ebf01ae62bd7d10455b9bfb2/capsule_231x87.jpg?t=1790261266"
+        },
+        {
+          "appid": 3627560,
+          "rank": 19,
+          "name": "Bounty Hunter Horrors",
+          "releaseDateRaw": "Oct 10, 2026",
+          "releaseDateISO": "2026-10-10",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3978,
+            19,
+            21,
+            1667,
+            3843,
+            3859,
+            4182
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3627560/7fb5a4baa22ac31375ffeab6701c92c87dc262af/capsule_231x87.jpg?t=1790814064"
+        },
+        {
+          "appid": 5256770,
+          "rank": 20,
+          "name": "PropHuntFPS",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            19,
+            1774,
+            1663,
+            4191,
+            4136,
+            1775,
+            3859
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5256770/4fa57b6095cb78e45ed02bff81babb96f57de2c7/capsule_231x87.jpg?t=1790138950"
+        },
+        {
+          "appid": 3780530,
+          "rank": 21,
+          "name": "American Cooking Simulator: Multiplayer",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3920,
+            1685,
+            3859,
+            4136,
+            1774,
+            3968,
+            492
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3780530/3d18ce0e76d7b216ed879d373e31f13b590df2d7/capsule_231x87.jpg?t=1790337431"
+        },
+        {
+          "appid": 2902780,
+          "rank": 22,
+          "name": "Ghost Villa",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            19,
+            1774,
+            560542,
+            1663,
+            1645,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2902780/a6dcc16b6280dd67f3ab19c9afc288189842cfbc/capsule_231x87.jpg?t=1790429928"
+        },
+        {
+          "appid": 4568220,
+          "rank": 23,
+          "name": "Panchofobia",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1667,
+            5923,
+            1663,
+            1721,
+            4106,
+            3942
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4568220/5aada4e4575618e173b12ecb61926bee86220087/capsule_231x87.jpg?t=1788731257"
+        },
+        {
+          "appid": 4289590,
+          "rank": 24,
+          "name": "Horrorvania",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1667,
+            19,
+            1663,
+            3978,
+            1774,
+            492,
+            4345
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4289590/00fb713946cdf2455390d1fc47f61527bb6bc407/capsule_231x87.jpg?t=1790654084"
+        },
+        {
+          "appid": 4249690,
+          "rank": 25,
+          "name": "Wolfsschanze – Operation Götterdämmerung",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1774,
+            4667,
+            1663,
+            4150,
+            7423,
+            1678
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4249690/62db4cfc6782f5d74c2e37d4a90151fe15a48a22/capsule_231x87.jpg?t=1789559817"
+        },
+        {
+          "appid": 3611760,
+          "rank": 26,
+          "name": "Hypnostasis",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1721,
+            1663,
+            6869,
+            1710,
+            8945,
+            6971,
+            1702
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3611760/7e5f2993e56e0b51140df35a44cc77f2badfca8b/capsule_231x87.jpg?t=1790180910"
+        },
+        {
+          "appid": 4404390,
+          "rank": 27,
+          "name": "Cheap Screamer",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1721,
+            5372,
+            5186,
+            1663,
+            1774,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4404390/44ae726dbd48af1cf6a36c6bb668fad5e7e459c8/capsule_231x87.jpg?t=1790707740"
+        },
+        {
+          "appid": 5165970,
+          "rank": 28,
+          "name": "A Bad Dream: Trypophobia",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            1664,
+            5900,
+            3834,
+            1663,
+            1738,
+            4145
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5165970/5fd55d282e83ee5e740a1c2c9b052747fc00be2b/capsule_231x87.jpg?t=1788499547"
+        },
+        {
+          "appid": 4971790,
+          "rank": 29,
+          "name": "ARC-9",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            42804,
+            8666,
+            1663,
+            4115,
+            1774,
+            19,
+            5125
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4971790/1ec1ad5eddc9bb088b43b985fec7fe18220a32d5/capsule_231x87.jpg?t=1785123019"
+        },
+        {
+          "appid": 5213360,
+          "rank": 30,
+          "name": "Double Check",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            597,
+            19,
+            84,
+            809,
+            1698,
+            1664
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5213360/ef6f785e5c40ac61d0b609f445d5a6090d52a010/capsule_231x87.jpg?t=1790055530"
+        },
+        {
+          "appid": 3025060,
+          "rank": 31,
+          "name": "THE GUARDIANS",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            15045,
+            4106,
+            4175,
+            4145,
+            4168,
+            4182,
+            599
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3025060/9d7d5797b9346bdd296869a5aeeb3fd723d96af7/capsule_231x87.jpg?t=1788544787"
+        },
+        {
+          "appid": 5202090,
+          "rank": 32,
+          "name": "Mercenaries Of Vector",
+          "releaseDateRaw": "Oct 16, 2026",
+          "releaseDateISO": "2026-10-16",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1663,
+            19,
+            3814,
+            1774,
+            4106,
+            4191,
+            7743
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5202090/8ec788485eb278b5990867bced171f6044aa783b/capsule_231x87.jpg?t=1790160479"
+        },
+        {
+          "appid": 3720580,
+          "rank": 33,
+          "name": "Supermarket Guard Simulator",
+          "releaseDateRaw": "Oct 16, 2026",
+          "releaseDateISO": "2026-10-16",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            19,
+            12472,
+            597,
+            6378,
+            492,
+            10235
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720580/8151bb557ddd9288df7b3cac758688c9c971b17d/capsule_231x87.jpg?t=1790422752"
+        },
+        {
+          "appid": 1761910,
+          "rank": 34,
+          "name": "Athanasia",
+          "releaseDateRaw": "Oct 19, 2026",
+          "releaseDateISO": "2026-10-19",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            9204,
+            5160,
+            1663,
+            3834,
+            7208,
+            19
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1761910/bd111d7d5f9d3167370944a34073ca008585b0fb/capsule_231x87.jpg?t=1790095308"
+        },
+        {
+          "appid": 2679790,
+          "rank": 35,
+          "name": "Baron",
+          "releaseDateRaw": "Oct 19, 2026",
+          "releaseDateISO": "2026-10-19",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            6378,
+            1742,
+            19,
+            3814,
+            3834,
+            1663
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2679790/ed65dfd8395a748f03259847d72e52cb793000ce/capsule_231x87.jpg?t=1790708905"
+        },
+        {
+          "appid": 5088140,
+          "rank": 36,
+          "name": "Phantom Line: Prologue",
+          "releaseDateRaw": "Oct 26, 2026",
+          "releaseDateISO": "2026-10-26",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            1663,
+            1685,
+            6730,
+            1708,
+            1721,
+            1695,
+            3834
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5088140/f4bfe8f0de5f94294e110595bc1d00b802cfd4d0/capsule_231x87.jpg?t=1790775948"
+        },
+        {
+          "appid": 4760480,
+          "rank": 37,
+          "name": "You Are Empty: Absolute Edition",
+          "releaseDateRaw": "Oct 27, 2026",
+          "releaseDateISO": "2026-10-27",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1663,
+            1774,
+            4191,
+            7250,
+            19,
+            3839,
+            5179
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4760480/ec199a0a067d69e90b8a3c5b9eee55ff7a469c8a/capsule_231x87.jpg?t=1788628532"
+        },
+        {
+          "appid": 5328190,
+          "rank": 38,
+          "name": "Wild Draw",
+          "releaseDateRaw": "Oct 19, 2026",
+          "releaseDateISO": "2026-10-19",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1666,
+            19,
+            597,
+            1663,
+            1647,
+            7178,
+            3859
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5328190/8dbf16ba4bfe0b9bb29428d4be7f30962cf828a1/capsule_231x87.jpg?t=1790767577"
+        },
+        {
+          "appid": 5286740,
+          "rank": 39,
+          "name": "AimZen",
+          "releaseDateRaw": "Oct 19, 2026",
+          "releaseDateISO": "2026-10-19",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            1774,
+            19,
+            1663,
+            4094,
+            3839,
+            4166
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5286740/80c20a129a8f299c84208ef0355b860c3590bbf3/capsule_231x87.jpg?t=1790508999"
+        },
+        {
+          "appid": 4952170,
+          "rank": 40,
+          "name": "Her Revenge",
+          "releaseDateRaw": "Oct 19, 2026",
+          "releaseDateISO": "2026-10-19",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1667,
+            1721,
+            3978,
+            3834,
+            4342,
+            492,
+            4106
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4952170/805efb7c73350289973ca32e47b4e9f1a47bbecb/capsule_231x87.jpg?t=1788374019"
+        },
+        {
+          "appid": 2665020,
+          "rank": 41,
+          "name": "Milo",
+          "releaseDateRaw": "Oct 29, 2026",
+          "releaseDateISO": "2026-10-29",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1663,
+            6730,
+            3843,
+            1667,
+            1685,
+            1662,
+            4345
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2665020/0f4bcc20e1b4748e3c6096a71f571ecda41966d0/capsule_231x87.jpg?t=1788893623"
+        },
+        {
+          "appid": 3129420,
+          "rank": 42,
+          "name": "ASPIS",
+          "releaseDateRaw": "Oct 23, 2026",
+          "releaseDateISO": "2026-10-23",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4064,
+            3834,
+            3942,
+            4106,
+            3839,
+            4191,
+            1667
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3129420/0138b315d447ef4fccd452fb9c16d948fd4443c0/capsule_231x87.jpg?t=1790742146"
+        },
+        {
+          "appid": 2482760,
+          "rank": 43,
+          "name": "Hunting Simulator 3",
+          "releaseDateRaw": "Oct 29, 2026",
+          "releaseDateISO": "2026-10-29",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9564,
+            1695,
+            599,
+            4175,
+            3839,
+            4182,
+            3834
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2482760/25c3d0f0ff13dc2459fa69b2292887e21c519585/capsule_231x87.jpg?t=1789657250"
+        },
+        {
+          "appid": 4306070,
+          "rank": 44,
+          "name": "Catch Meow If You Can",
+          "releaseDateRaw": "Oct 29, 2026",
+          "releaseDateISO": "2026-10-29",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3859,
+            3843,
+            1685,
+            1719,
+            17894,
+            21,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4306070/10cb3288b97326d95913fd1e73eae897d26dab12/capsule_231x87.jpg?t=1790875530"
+        }
+      ]
+    },
+    "1716": {
+      "tagName": "Roguelike",
+      "totalCount": 6885,
+      "ranked": [
+        {
+          "appid": 4078430,
+          "rank": 1,
+          "name": "STAR WARS: Galactic Racer™",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 5999,
+          "priceText": "$59.99",
+          "tagIds": [
+            699,
+            21,
+            3859,
+            4145,
+            3878,
+            4182,
+            1716
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/13ac6002a7cd1c867f8bf2f650101fe9d91ce4f9/capsule_231x87.jpg?t=1790098978"
+        },
+        {
+          "appid": 4989520,
+          "rank": 2,
+          "name": "Immortal Zenith: Idle to Ascension",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            122,
+            599,
+            1754,
+            1716,
+            615955,
+            560542,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989520/244a67af555e6b962397c993050ec51a38ff5c2a/capsule_231x87.jpg?t=1790811278"
+        },
+        {
+          "appid": 4666490,
+          "rank": 3,
+          "name": "Beautiful Spores",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            42804,
+            723991,
+            4885,
+            4255,
+            4637,
+            4758,
+            6730
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4666490/c31e1cc91b7d0515a51533adc06314ff910aab00/capsule_231x87.jpg?t=1789766905"
+        },
+        {
+          "appid": 3212940,
+          "rank": 4,
+          "name": "Meteor Raiders",
+          "releaseDateRaw": "Oct 2, 2026",
+          "releaseDateISO": "2026-10-02",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            42804,
+            492,
+            4885,
+            3964,
+            4182,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3212940/9ae3df46d4ae884a1cdc54f6725d0b10aed66221/capsule_231x87.jpg?t=1790531763"
+        },
+        {
+          "appid": 3561610,
+          "rank": 5,
+          "name": "Horde Arena",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1685,
+            3843,
+            3859,
+            6730,
+            19,
+            1774,
+            3814
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3561610/e95d85374029e901af2c1b3f1f91f324b0efe037/capsule_231x87.jpg?t=1790659103"
+        },
+        {
+          "appid": 4879420,
+          "rank": 6,
+          "name": "BELTFED - Roguelike Factory Defense",
+          "releaseDateRaw": "2027",
+          "releaseDateISO": "2027-12-31",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            255534,
+            7332,
+            9,
+            1645,
+            8945,
+            1676,
+            3810
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879420/6633d296498563ae0880d9636dbefcf1e093bd2d/capsule_231x87.jpg?t=1790503253"
+        },
+        {
+          "appid": 5256950,
+          "rank": 7,
+          "name": "SanGoFate",
+          "releaseDateRaw": "Oct 5, 2026",
+          "releaseDateISO": "2026-10-05",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            599,
+            9,
+            1716,
+            6426,
+            10235,
+            791774,
+            14139
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5256950/f0c215e56baf901046ce7e899b6aed8b30d7fb50/capsule_231x87.jpg?t=1790768050"
+        },
+        {
+          "appid": 4080520,
+          "rank": 8,
+          "name": "Horns of Deliverance",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            42804,
+            1716,
+            1663,
+            4191,
+            1714,
+            3839
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080520/866648af73e2b28f71a7bb722953a8acf65f2ec9/capsule_231x87.jpg?t=1790144843"
+        },
+        {
+          "appid": 3845070,
+          "rank": 9,
+          "name": "Dupery: A Game of Solo Deduction",
+          "releaseDateRaw": "Oct 15, 2026",
+          "releaseDateISO": "2026-10-15",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1716,
+            745697,
+            8369,
+            9,
+            5613,
+            6378,
+            14139
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3845070/2fbcc91eca3082934c220512cce2490fc85207d9/capsule_231x87.jpg?t=1790856657"
+        },
+        {
+          "appid": 4955350,
+          "rank": 10,
+          "name": "Face Your Fate",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1091588,
+            791774,
+            3959,
+            1666,
+            3964,
+            32322,
+            1716
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955350/1888ea898d894780194f89ab569cdded1d9a00e8/capsule_231x87.jpg?t=1790227063"
+        },
+        {
+          "appid": 5280030,
+          "rank": 11,
+          "name": "The Road Remembers",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            122,
+            31275,
+            6426,
+            1684,
+            4155,
+            1716,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5280030/319776e7f04dcdce28391532eb850200e1e6dab5/capsule_231x87.jpg?t=1790728483"
+        },
+        {
+          "appid": 5257350,
+          "rank": 12,
+          "name": "Hex Reverse",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": "Free",
+          "tagIds": [
+            597,
+            1666,
+            1770,
+            791774,
+            1716,
+            1664,
+            9271
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/956c4a8b6489eec17df3a848a2a57cbe2b9a4a4c/capsule_231x87.jpg?t=1790058611"
+        },
+        {
+          "appid": 5031520,
+          "rank": 13,
+          "name": "Endless Bonds",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            42804,
+            4106,
+            1716,
+            4885,
+            4637,
+            3871
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5031520/01e7a4b244865067fbbadd5db0af5adf53e60d24/capsule_231x87.jpg?t=1787931368"
+        },
+        {
+          "appid": 3749130,
+          "rank": 14,
+          "name": "Tower Tactics II",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            1645,
+            1091588,
+            9,
+            1755,
+            1716,
+            32322
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3749130/e46d570c48278322ecb6740cd46f4745cae79054/capsule_231x87.jpg?t=1790765640"
+        },
+        {
+          "appid": 5248170,
+          "rank": 15,
+          "name": "Killpath",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            19,
+            4736,
+            1716,
+            42804,
+            1773,
+            56690
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5248170/ba03a50e7be52fb8d0177d47e07e4c58315409c6/capsule_231x87.jpg?t=1789740920"
+        },
+        {
+          "appid": 5285560,
+          "rank": 16,
+          "name": "Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home",
+          "releaseDateRaw": "Oct 6, 2026",
+          "releaseDateISO": "2026-10-06",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            701,
+            122,
+            1254546,
+            21,
+            4106,
+            1773,
+            4434
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5285560/cbc8ed043e4b5c5992b7871e6d5c6a3a6b39df20/capsule_231x87.jpg?t=1790796726"
+        },
+        {
+          "appid": 4148630,
+          "rank": 17,
+          "name": "Dragon Dinner",
+          "releaseDateRaw": "Oct 8, 2026",
+          "releaseDateISO": "2026-10-08",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            16689,
+            97376,
+            599,
+            1716,
+            4747,
+            4726,
+            3920
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148630/7e1165a179962c92f90875e6f36bd71e0efe2bf0/capsule_231x87.jpg?t=1790879308"
+        },
+        {
+          "appid": 5327690,
+          "rank": 18,
+          "name": "Hauberk",
+          "releaseDateRaw": "Oct 7, 2026",
+          "releaseDateISO": "2026-10-07",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            454187,
+            5125,
+            1720,
+            122,
+            255534,
+            4325,
+            560542
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5327690/d8ce21af2cf7033d733f9a5fe8a708a62f1f2ed7/capsule_231x87.jpg?t=1790823547"
+        },
+        {
+          "appid": 2954010,
+          "rank": 19,
+          "name": "Burn With Me",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4342,
+            97376,
+            1742,
+            1666,
+            916648,
+            1091588,
+            1716
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2954010/f7904a019b35ff7b85c3e1d3cd4071447dac0d2c/capsule_231x87.jpg?t=1790365033"
+        },
+        {
+          "appid": 5268260,
+          "rank": 20,
+          "name": "Cheeseonomics Deluxe",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1716,
+            599,
+            255534,
+            9,
+            597,
+            4182,
+            4305
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5268260/8c47cd2bf7fa485cf4e904f408e8c638a735e8a6/capsule_231x87.jpg?t=1790719761"
+        },
+        {
+          "appid": 2529960,
+          "rank": 21,
+          "name": "Alpha Nomos",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1752,
+            1646,
+            42804,
+            21,
+            1697,
+            4182
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2529960/83f042482b1e5ad3738b5ea2e7cc280e3d882034/capsule_231x87.jpg?t=1790682453"
+        },
+        {
+          "appid": 2998660,
+          "rank": 22,
+          "name": "Torreta",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1645,
+            9,
+            4791,
+            4182,
+            3859,
+            1716,
+            597
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2998660/79eee30e285bb529dddcb6ef43d4a71bc3da8ba0/capsule_231x87.jpg?t=1790861690"
+        },
+        {
+          "appid": 5248650,
+          "rank": 23,
+          "name": "Dark Dice Dungeon",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21725,
+            122,
+            9,
+            14139,
+            1720,
+            3959,
+            10695
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5248650/7bc1c39b2e8122fa4319670cab05833487e8845f/capsule_231x87.jpg?t=1790853043"
+        },
+        {
+          "appid": 4739210,
+          "rank": 24,
+          "name": "Conquisterra Roguelie",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            42804,
+            3834,
+            1628,
+            5379,
+            122,
+            1720,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4739210/43da3da9db5be470af3fa5e0963ec95184231756/capsule_231x87.jpg?t=1790625736"
+        },
+        {
+          "appid": 3977340,
+          "rank": 25,
+          "name": "Poly Fighter",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            1716,
+            1743,
+            4182,
+            4975,
+            19,
+            3959,
+            42804
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3977340/fcb8f5828956c9f94e07c27007f9cabb1093df3f/capsule_231x87.jpg?t=1790264917"
+        },
+        {
+          "appid": 5197160,
+          "rank": 26,
+          "name": "Tower Survivors: Fortress",
+          "releaseDateRaw": "Oct 9, 2026",
+          "releaseDateISO": "2026-10-09",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            1645,
+            1084988,
+            3959,
+            19,
+            723991,
+            1716
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5197160/937c1c508cb15c804ef7ba63e2680aec4b68eb20/capsule_231x87.jpg?t=1790389184"
+        },
+        {
+          "appid": 4274730,
+          "rank": 27,
+          "name": "Roguefort",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            454187,
+            14139,
+            9204,
+            198631,
+            1720,
+            1741
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4274730/4aad59b7ae3b92ab773aa2da8ac89cc79355023d/capsule_231x87.jpg?t=1790740109"
+        },
+        {
+          "appid": 5294190,
+          "rank": 28,
+          "name": "Legends of the Pitch",
+          "releaseDateRaw": "Oct 11, 2026",
+          "releaseDateISO": "2026-10-11",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            21,
+            701,
+            4736,
+            1666,
+            1716,
+            1741,
+            5379
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5294190/4487d6087d4cf19735e5ff4f9477d43f797fd372/capsule_231x87.jpg?t=1790808089"
+        },
+        {
+          "appid": 3393190,
+          "rank": 29,
+          "name": "DinoSwarm",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4885,
+            723991,
+            3959,
+            42804,
+            916648,
+            5160,
+            19
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393190/505e9ddca858734c3122dd7945a606e86d6b3dd4/capsule_231x87.jpg?t=1790187271"
+        },
+        {
+          "appid": 4838230,
+          "rank": 30,
+          "name": "Rift Crashers",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            19,
+            1716,
+            1774,
+            723991,
+            1720,
+            3964,
+            4791
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4838230/1ee78115c11acb07e85cbb051ccedfcf9aff1dca/capsule_231x87.jpg?t=1789434276"
+        },
+        {
+          "appid": 4131650,
+          "rank": 31,
+          "name": "Daily Burden",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            3959,
+            4845,
+            32322,
+            1716,
+            4878,
+            4182
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4131650/ab52a9f0cee976787be85d812d7e1c3513a40712/capsule_231x87.jpg?t=1790152150"
+        },
+        {
+          "appid": 5065920,
+          "rank": 32,
+          "name": "Mushroom Marketplace",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            791774,
+            3959,
+            1666,
+            1716,
+            597,
+            3871
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5065920/fe93783a9c7d4514006bc2007ce24c6debaadb10/capsule_231x87.jpg?t=1788136305"
+        },
+        {
+          "appid": 5203370,
+          "rank": 33,
+          "name": "smoke.exe",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            3959,
+            1084988,
+            1664,
+            1716,
+            3871,
+            6052
+          ],
+          "descIds": [
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5203370/d949f61ec0025530fcec54c24c4b212df2e794f1/capsule_231x87.jpg?t=1790665796"
+        },
+        {
+          "appid": 2902780,
+          "rank": 34,
+          "name": "Ghost Villa",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            493,
+            19,
+            1774,
+            560542,
+            1663,
+            1645,
+            4191
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2902780/a6dcc16b6280dd67f3ab19c9afc288189842cfbc/capsule_231x87.jpg?t=1790429928"
+        },
+        {
+          "appid": 4456180,
+          "rank": 35,
+          "name": "Overdue",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3843,
+            19,
+            1667,
+            3839,
+            4136,
+            5125,
+            6730
+          ],
+          "descIds": [
+            2,
+            5
+          ],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4456180/0f8f29617f224ead8f262233adf344340b1873af/capsule_231x87.jpg?t=1790829925"
+        },
+        {
+          "appid": 5308770,
+          "rank": 36,
+          "name": "AXIOMA",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            1666,
+            1741,
+            1716,
+            791774,
+            1091588,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5308770/db29c28bb4c00fae4248496302a76188c5e06033/capsule_231x87.jpg?t=1790360950"
+        },
+        {
+          "appid": 5157000,
+          "rank": 37,
+          "name": "Road to Verdant",
+          "releaseDateRaw": "Oct 12, 2026",
+          "releaseDateISO": "2026-10-12",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4106,
+            723991,
+            1684,
+            560542,
+            21,
+            19,
+            1774
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5157000/990a3a9347110f9fb8b53f4c1a6fa8b4c8686513/capsule_231x87.jpg?t=1789369747"
+        },
+        {
+          "appid": 5312040,
+          "rank": 38,
+          "name": "Galdr Inkblade",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            71389,
+            1091588,
+            9,
+            24003,
+            1036,
+            1666,
+            597
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5312040/40103763b8eb213f07200bdc3b2e0766e66f42a8/capsule_231x87.jpg?t=1790767467"
+        },
+        {
+          "appid": 5063350,
+          "rank": 39,
+          "name": "Ember District",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            9,
+            1666,
+            1741,
+            1716,
+            5379,
+            454187,
+            13070
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5063350/fd47ca11d4cf69f3c6b7b96a8ec382f2c4ce8273/capsule_231x87.jpg?t=1790304689"
+        },
+        {
+          "appid": 3878090,
+          "rank": 40,
+          "name": "Pixel Survivors: Defense",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            4885,
+            3959,
+            1084988,
+            1645,
+            6730,
+            1716,
+            9
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3878090/4bebbeef84a1d2fcdd0ccbc00400f2c27a3e22b9/capsule_231x87.jpg?t=1790599152"
+        },
+        {
+          "appid": 5277970,
+          "rank": 41,
+          "name": "HYPERINFLATION",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            723991,
+            42804,
+            1716,
+            1755,
+            19,
+            4637,
+            21
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5277970/5dba8a28b04dd1065df54dd6c83c1127deff88b2/capsule_231x87.jpg?t=1790750417"
+        },
+        {
+          "appid": 5228280,
+          "rank": 42,
+          "name": "Trampoline to Tomorrow",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            597,
+            492,
+            3968,
+            1716,
+            1773,
+            1654,
+            1755
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228280/b2543bae11cbcfeb6232386a20326ab797c83850/capsule_231x87.jpg?t=1789317880"
+        },
+        {
+          "appid": 3912720,
+          "rank": 43,
+          "name": "CyberSushi",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            42804,
+            3959,
+            4026,
+            1625,
+            1773,
+            1716,
+            4747
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3912720/8573da2d2f9dc5c63843674f519695c24560034c/capsule_231x87.jpg?t=1788437264"
+        },
+        {
+          "appid": 4910490,
+          "rank": 44,
+          "name": "Ignite the Depths",
+          "releaseDateRaw": "2026",
+          "releaseDateISO": "2026-12-31",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3843,
+            1720,
+            4604,
+            19,
+            122,
+            4231,
+            21
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4910490/368c7a6c72efecfadbcfc2c62db5bb8a516a0daa/capsule_231x87.jpg?t=1790024337"
+        },
+        {
+          "appid": 5234250,
+          "rank": 45,
+          "name": "PENNANT: Baseball Owner",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            701,
+            599,
+            9,
+            5727,
+            12472,
+            1716,
+            3959
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5234250/318f97590e57d5f728186dc29d4f2365c17d8307/capsule_231x87.jpg?t=1790561896"
+        },
+        {
+          "appid": 5164100,
+          "rank": 46,
+          "name": "Double Sixes",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            14139,
+            3959,
+            12057,
+            1770,
+            17389,
+            1716,
+            9
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5164100/5a8a642d211ed5f1272812820d05f9524dbfb67a/capsule_231x87.jpg?t=1790793329"
+        },
+        {
+          "appid": 4547860,
+          "rank": 47,
+          "name": "Escape from EloHell",
+          "releaseDateRaw": "Oct 14, 2026",
+          "releaseDateISO": "2026-10-14",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3959,
+            9,
+            597,
+            1084988,
+            16250,
+            1718,
+            1716
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4547860/2398b847625430907a9727ac75403f8049487e18/capsule_231x87.jpg?t=1789572105"
+        },
+        {
+          "appid": 3450850,
+          "rank": 48,
+          "name": "Astrolite",
+          "releaseDateRaw": "Oct 13, 2026",
+          "releaseDateISO": "2026-10-13",
+          "priceCents": 0,
+          "priceText": null,
+          "tagIds": [
+            3959,
+            4711,
+            723991,
+            4885,
+            3964,
+            42804,
+            1662
+          ],
+          "descIds": [],
+          "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3450850/1d0b2d9c61ebddaca984951bd929099462a80080/capsule_231x87.jpg?t=1790021932"
+        }
+      ]
+    }
+  }
+}
