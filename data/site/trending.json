@@ -1,6 +1,55 @@
 {
-  "comparedTo": "2026-09-24T18:18:29.506Z",
+  "comparedTo": "2026-09-25T18:18:21.476Z",
   "risers": [
+    {
+      "appid": 4094350,
+      "name": "Online: 404",
+      "releaseDateRaw": "Oct 16, 2026",
+      "releaseDateISO": "2026-10-16",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094350/17bdb8d4411cd33e68737f5fe9f6dddb0688cf83/capsule_231x87.jpg?t=1790884143",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 5,
+      "prevRank": 45,
+      "delta": 40,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-25",
+          "rank": 45
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 45
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 42
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 33
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 28
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 7
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 6
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 5
+        }
+      ]
+    },
     {
       "appid": 3115160,
       "name": "Warhammer 40,000: Boltgun 2",
@@ -8,12 +57,12 @@
       "releaseDateISO": "2026-10-14",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3115160/a41870d91ff8f8e27b95c9f8aec1b2bfc357f1e3/capsule_231x87.jpg?t=1790785313",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/a41870d91ff8f8e27b95c9f8aec1b2bfc357f1e3/capsule_231x87.jpg?t=1790785313",
       "tagId": 1663,
       "tagName": "FPS",
-      "rank": 7,
-      "prevRank": 48,
-      "delta": 41,
+      "rank": 6,
+      "prevRank": 42,
+      "delta": 36,
       "status": "rising",
       "series": [
         {
@@ -79,6 +128,202 @@
         {
           "date": "2026-10-01",
           "rank": 7
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "appid": 5251580,
+      "name": "Super Shooting Gallery Battle",
+      "releaseDateRaw": "Oct 7, 2026",
+      "releaseDateISO": "2026-10-07",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251580/650c180a95f4ab9b5d33cae77d087858d0e879ad/capsule_231x87.jpg?t=1789612543",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 11,
+      "prevRank": 47,
+      "delta": 36,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-25",
+          "rank": 47
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 48
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 47
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 40
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 19
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 14
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "appid": 4080520,
+      "name": "Horns of Deliverance",
+      "releaseDateRaw": "Oct 12, 2026",
+      "releaseDateISO": "2026-10-12",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080520/866648af73e2b28f71a7bb722953a8acf65f2ec9/capsule_231x87.jpg?t=1790144843",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 8,
+      "prevRank": 43,
+      "delta": 35,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-25",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 44
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 44
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 39
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 36
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 16
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 8
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "appid": 2688780,
+      "name": "Odd Town",
+      "releaseDateRaw": "Oct 15, 2026",
+      "releaseDateISO": "2026-10-15",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688780/356a1cfdbd9105ff203fc5f5eae45c90da61e82a/capsule_231x87.jpg?t=1790250381",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 9,
+      "prevRank": 44,
+      "delta": 35,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-25",
+          "rank": 44
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 46
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 45
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 40
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 37
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 17
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 12
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "appid": 4024440,
+      "name": "Haunted Heist",
+      "releaseDateRaw": "Oct 12, 2026",
+      "releaseDateISO": "2026-10-12",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024440/ab9001bb1f70b895aa84db581e49fc19b9acef11/capsule_231x87.jpg?t=1790952895",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 13,
+      "prevRank": 48,
+      "delta": 35,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-25",
+          "rank": 48
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 48
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 44
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 41
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 21
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 16
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 13
         }
       ]
     },
@@ -89,12 +334,12 @@
       "releaseDateISO": "2026-10-09",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5182260/ddea32ecd6a391cacfc464f502173cb217afa274/capsule_231x87.jpg?t=1789321832",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182260/ddea32ecd6a391cacfc464f502173cb217afa274/capsule_231x87.jpg?t=1789321832",
       "tagId": 1663,
       "tagName": "FPS",
-      "rank": 10,
-      "prevRank": 49,
-      "delta": 39,
+      "rank": 7,
+      "prevRank": 41,
+      "delta": 34,
       "status": "rising",
       "series": [
         {
@@ -128,55 +373,108 @@
         {
           "date": "2026-10-01",
           "rank": 10
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 7
         }
       ]
     },
     {
-      "appid": 5119800,
-      "name": "GODSPEED",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
+      "appid": 4681250,
+      "name": "Kill Your Friends",
+      "releaseDateRaw": "Oct 8, 2026",
+      "releaseDateISO": "2026-10-08",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5119800/46a8824ca5404234a844b1a8453f6bf0a22efe65/capsule_231x87.jpg?t=1788547973",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681250/2e019e3c1db78b062ca230d1427d5baae5bf63f8/capsule_231x87.jpg?t=1790952466",
       "tagId": 1663,
       "tagName": "FPS",
-      "rank": 9,
-      "prevRank": 47,
-      "delta": 38,
+      "rank": 12,
+      "prevRank": 46,
+      "delta": 34,
       "status": "rising",
       "series": [
         {
-          "date": "2026-09-24",
-          "rank": 47
-        },
-        {
           "date": "2026-09-25",
-          "rank": 40
+          "rank": 46
         },
         {
           "date": "2026-09-26",
-          "rank": 41
+          "rank": 47
         },
         {
           "date": "2026-09-27",
-          "rank": 40
+          "rank": 46
         },
         {
           "date": "2026-09-28",
-          "rank": 35
+          "rank": 42
         },
         {
           "date": "2026-09-29",
-          "rank": 32
+          "rank": 39
         },
         {
           "date": "2026-09-30",
-          "rank": 13
+          "rank": 20
         },
         {
           "date": "2026-10-01",
-          "rank": 9
+          "rank": 15
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "appid": 3785860,
+      "name": "Mycopsychosys: Project Jupiter",
+      "releaseDateRaw": "Oct 5, 2026",
+      "releaseDateISO": "2026-10-05",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785860/4ef68342632b80ded508266c88470315affd25d8/capsule_231x87.jpg?t=1790140947",
+      "tagId": 122,
+      "tagName": "RPG",
+      "rank": 7,
+      "prevRank": 31,
+      "delta": 24,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-25",
+          "rank": 31
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 24
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 21
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 15
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 13
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 7
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 7
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 6
         }
       ]
     },
@@ -187,12 +485,12 @@
       "releaseDateISO": "2026-10-13",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2828710/c845c26a71524fa38b25c3b3da23a384de7d1436/capsule_231x87.jpg?t=1790264547",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/c845c26a71524fa38b25c3b3da23a384de7d1436/capsule_231x87.jpg?t=1790264547",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 6,
-      "prevRank": 41,
-      "delta": 35,
+      "prevRank": 22,
+      "delta": 16,
       "status": "rising",
       "series": [
         {
@@ -282,54 +580,9 @@
         {
           "date": "2026-10-01",
           "rank": 4
-        }
-      ]
-    },
-    {
-      "appid": 1215940,
-      "name": "Forever Ago",
-      "releaseDateRaw": "Oct 8, 2026",
-      "releaseDateISO": "2026-10-08",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1215940/fcac2e5dedea70175b16964b82cc70bdec730513/capsule_231x87.jpg?t=1790790784",
-      "tagId": 492,
-      "tagName": "Indie",
-      "rank": 3,
-      "prevRank": 34,
-      "delta": 31,
-      "status": "rising",
-      "series": [
-        {
-          "date": "2026-09-24",
-          "rank": 34
         },
         {
-          "date": "2026-09-25",
-          "rank": 12
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 11
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 10
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 2
-        },
-        {
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "rank": 3
         }
       ]
@@ -341,12 +594,12 @@
       "releaseDateISO": "2027-12-31",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4879420/6633d296498563ae0880d9636dbefcf1e093bd2d/capsule_231x87.jpg?t=1790503253",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879420/6633d296498563ae0880d9636dbefcf1e093bd2d/capsule_231x87.jpg?t=1790503253",
       "tagId": 1716,
       "tagName": "Roguelike",
-      "rank": 6,
-      "prevRank": 31,
-      "delta": 25,
+      "rank": 4,
+      "prevRank": 20,
+      "delta": 16,
       "status": "rising",
       "series": [
         {
@@ -376,6 +629,10 @@
         {
           "date": "2026-10-01",
           "rank": 6
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 4
         }
       ]
     },
@@ -386,12 +643,12 @@
       "releaseDateISO": "2026-10-09",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1790172973",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1790172973",
       "tagId": 492,
       "tagName": "Indie",
       "rank": 1,
-      "prevRank": 21,
-      "delta": 20,
+      "prevRank": 11,
+      "delta": 10,
       "status": "rising",
       "series": [
         {
@@ -437,6 +694,63 @@
         {
           "date": "2026-10-01",
           "rank": 1
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "appid": 1215940,
+      "name": "Forever Ago",
+      "releaseDateRaw": "Oct 8, 2026",
+      "releaseDateISO": "2026-10-08",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/fcac2e5dedea70175b16964b82cc70bdec730513/capsule_231x87.jpg?t=1790790784",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 2,
+      "prevRank": 12,
+      "delta": 10,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-24",
+          "rank": 34
+        },
+        {
+          "date": "2026-09-25",
+          "rank": 12
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 11
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 10
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 6
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 6
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 2
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 3
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 2
         }
       ]
     },
@@ -447,12 +761,12 @@
       "releaseDateISO": "2026-10-14",
       "priceCents": 2999,
       "priceText": "$29.99",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4231820/2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg?t=1788478863",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg?t=1788478863",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 3,
-      "prevRank": 16,
-      "delta": 13,
+      "prevRank": 12,
+      "delta": 9,
       "status": "rising",
       "series": [
         {
@@ -542,6 +856,160 @@
         {
           "date": "2026-10-01",
           "rank": 3
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "releaseDateRaw": "Oct 28, 2026",
+      "releaseDateISO": "2026-10-28",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b34bac92cd37260ecead20b181eda3d0f928a373/capsule_231x87.jpg?t=1790493518",
+      "tagId": 122,
+      "tagName": "RPG",
+      "rank": 4,
+      "prevRank": 9,
+      "delta": 5,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-14",
+          "rank": 29
+        },
+        {
+          "date": "2026-09-15",
+          "rank": 27
+        },
+        {
+          "date": "2026-09-16",
+          "rank": 24
+        },
+        {
+          "date": "2026-09-17",
+          "rank": 17
+        },
+        {
+          "date": "2026-09-18",
+          "rank": 14
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 15
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 16
+        },
+        {
+          "date": "2026-09-21",
+          "rank": 15
+        },
+        {
+          "date": "2026-09-22",
+          "rank": 12
+        },
+        {
+          "date": "2026-09-23",
+          "rank": 13
+        },
+        {
+          "date": "2026-09-24",
+          "rank": 12
+        },
+        {
+          "date": "2026-09-25",
+          "rank": 9
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 8
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 8
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 8
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 6
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 5
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 4
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "appid": 2254990,
+      "name": "Permafrost",
+      "releaseDateRaw": "Oct 9, 2026",
+      "releaseDateISO": "2026-10-09",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/024db5584cd87b23dd37229e049378f2d4828bdb/capsule_231x87.jpg?t=1790936225",
+      "tagId": 122,
+      "tagName": "RPG",
+      "rank": 2,
+      "prevRank": 6,
+      "delta": 4,
+      "status": "rising",
+      "series": [
+        {
+          "date": "2026-09-23",
+          "rank": 9
+        },
+        {
+          "date": "2026-09-24",
+          "rank": 7
+        },
+        {
+          "date": "2026-09-25",
+          "rank": 6
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 5
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 5
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 6
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 4
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 3
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 2
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 2
         }
       ]
     },
@@ -552,12 +1020,12 @@
       "releaseDateISO": "2026-10-08",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883570/5af07df8afce5c9e5feb755c2b47a277f679399a/capsule_231x87.jpg?t=1790841310",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/5af07df8afce5c9e5feb755c2b47a277f679399a/capsule_231x87.jpg?t=1790887779",
       "tagId": 492,
       "tagName": "Indie",
       "rank": 5,
-      "prevRank": 14,
-      "delta": 9,
+      "prevRank": 9,
+      "delta": 4,
       "status": "rising",
       "series": [
         {
@@ -615,237 +1083,10 @@
         {
           "date": "2026-10-01",
           "rank": 5
-        }
-      ]
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "releaseDateRaw": "Oct 28, 2026",
-      "releaseDateISO": "2026-10-28",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348910/b34bac92cd37260ecead20b181eda3d0f928a373/capsule_231x87.jpg?t=1790493518",
-      "tagId": 122,
-      "tagName": "RPG",
-      "rank": 4,
-      "prevRank": 12,
-      "delta": 8,
-      "status": "rising",
-      "series": [
-        {
-          "date": "2026-09-14",
-          "rank": 29
         },
         {
-          "date": "2026-09-15",
-          "rank": 27
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 17
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 14
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 15
-        },
-        {
-          "date": "2026-09-20",
-          "rank": 16
-        },
-        {
-          "date": "2026-09-21",
-          "rank": 15
-        },
-        {
-          "date": "2026-09-22",
-          "rank": 12
-        },
-        {
-          "date": "2026-09-23",
-          "rank": 13
-        },
-        {
-          "date": "2026-09-24",
-          "rank": 12
-        },
-        {
-          "date": "2026-09-25",
-          "rank": 9
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-30",
+          "date": "2026-10-02",
           "rank": 5
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 4
-        }
-      ]
-    },
-    {
-      "appid": 3737680,
-      "name": "Bloodspill",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3737680/d6eaeff74fbbd0642ab1d9aa7ce4a21048d0a00c/capsule_231x87.jpg?t=1790850881",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 3,
-      "prevRank": 11,
-      "delta": 8,
-      "status": "rising",
-      "series": [
-        {
-          "date": "2026-09-14",
-          "rank": 42
-        },
-        {
-          "date": "2026-09-15",
-          "rank": 36
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 33
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 29
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 23
-        },
-        {
-          "date": "2026-09-20",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-21",
-          "rank": 20
-        },
-        {
-          "date": "2026-09-22",
-          "rank": 17
-        },
-        {
-          "date": "2026-09-23",
-          "rank": 13
-        },
-        {
-          "date": "2026-09-24",
-          "rank": 11
-        },
-        {
-          "date": "2026-09-25",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 4
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 3
-        }
-      ]
-    },
-    {
-      "appid": 2254990,
-      "name": "Permafrost",
-      "releaseDateRaw": "Oct 9, 2026",
-      "releaseDateISO": "2026-10-09",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254990/024db5584cd87b23dd37229e049378f2d4828bdb/capsule_231x87.jpg?t=1790751305",
-      "tagId": 122,
-      "tagName": "RPG",
-      "rank": 2,
-      "prevRank": 7,
-      "delta": 5,
-      "status": "rising",
-      "series": [
-        {
-          "date": "2026-09-23",
-          "rank": 9
-        },
-        {
-          "date": "2026-09-24",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-25",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 3
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 2
         }
       ]
     },
@@ -856,12 +1097,12 @@
       "releaseDateISO": "2026-10-13",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2828710/c845c26a71524fa38b25c3b3da23a384de7d1436/capsule_231x87.jpg?t=1790264547",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/c845c26a71524fa38b25c3b3da23a384de7d1436/capsule_231x87.jpg?t=1790264547",
       "tagId": 1663,
       "tagName": "FPS",
-      "rank": 4,
-      "prevRank": 9,
-      "delta": 5,
+      "rank": 3,
+      "prevRank": 7,
+      "delta": 4,
       "status": "rising",
       "series": [
         {
@@ -951,6 +1192,10 @@
         {
           "date": "2026-10-01",
           "rank": 4
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 3
         }
       ]
     },
@@ -961,12 +1206,12 @@
       "releaseDateISO": "2026-10-28",
       "priceCents": 5999,
       "priceText": "$59.99",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1787142639",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1787142639",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 5,
-      "prevRank": 9,
-      "delta": 4,
+      "prevRank": 8,
+      "delta": 3,
       "status": "rising",
       "series": [
         {
@@ -1056,6 +1301,10 @@
         {
           "date": "2026-10-01",
           "rank": 5
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 5
         }
       ]
     },
@@ -1066,12 +1315,12 @@
       "releaseDateISO": "2026-10-09",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1790172973",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1790172973",
       "tagId": 1663,
       "tagName": "FPS",
       "rank": 1,
-      "prevRank": 5,
-      "delta": 4,
+      "prevRank": 4,
+      "delta": 3,
       "status": "rising",
       "series": [
         {
@@ -1117,6 +1366,10 @@
         {
           "date": "2026-10-01",
           "rank": 1
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 1
         }
       ]
     },
@@ -1127,12 +1380,12 @@
       "releaseDateISO": "2026-10-22",
       "priceCents": 4999,
       "priceText": "$49.99",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3259780/6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg?t=1788534743",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg?t=1788534743",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 8,
-      "prevRank": 11,
-      "delta": 3,
+      "prevRank": 10,
+      "delta": 2,
       "status": "rising",
       "series": [
         {
@@ -1222,303 +1475,69 @@
         {
           "date": "2026-10-01",
           "rank": 8
-        }
-      ]
-    },
-    {
-      "appid": 3393110,
-      "name": "AION 2",
-      "releaseDateRaw": "Oct 5, 2026",
-      "releaseDateISO": "2026-10-05",
-      "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg?t=1790806400",
-      "tagId": 122,
-      "tagName": "RPG",
-      "rank": 1,
-      "prevRank": 3,
-      "delta": 2,
-      "status": "rising",
-      "series": [
+        },
         {
-          "date": "2026-09-10",
+          "date": "2026-10-02",
           "rank": 8
-        },
-        {
-          "date": "2026-09-11",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-12",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-13",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-14",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-15",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-20",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-21",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-22",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-23",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-24",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-25",
-          "rank": 2
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 2
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 2
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 1
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 1
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 1
-        }
-      ]
-    },
-    {
-      "appid": 4435490,
-      "name": "Call of Duty®: Modern Warfare® 4",
-      "releaseDateRaw": "Oct 22, 2026",
-      "releaseDateISO": "2026-10-22",
-      "priceCents": 6999,
-      "priceText": "$69.99",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/50d218e79ead2650bc6b7360995cc8dd3fbe2c29/capsule_231x87.jpg?t=1790698027",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 5,
-      "prevRank": 7,
-      "delta": 2,
-      "status": "rising",
-      "series": [
-        {
-          "date": "2026-09-10",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-11",
-          "rank": 2
-        },
-        {
-          "date": "2026-09-12",
-          "rank": 2
-        },
-        {
-          "date": "2026-09-13",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-14",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-15",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 4
-        },
-        {
-          "date": "2026-09-20",
-          "rank": 9
-        },
-        {
-          "date": "2026-09-21",
-          "rank": 10
-        },
-        {
-          "date": "2026-09-22",
-          "rank": 12
-        },
-        {
-          "date": "2026-09-23",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-24",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-25",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 8
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 7
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 5
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 5
         }
       ]
     }
   ],
   "fallers": [
     {
-      "appid": 4910490,
-      "name": "Ignite the Depths",
-      "releaseDateRaw": "2026",
-      "releaseDateISO": "2026-12-31",
+      "appid": 2764530,
+      "name": "Purble Place 3D",
+      "releaseDateRaw": "Coming soon",
+      "releaseDateISO": null,
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4910490/368c7a6c72efecfadbcfc2c62db5bb8a516a0daa/capsule_231x87.jpg?t=1790024337",
-      "tagId": 1716,
-      "tagName": "Roguelike",
-      "rank": 44,
-      "prevRank": 14,
-      "delta": -30,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764530/72a7f174e9bb945ec90b7a0cf5910ce448c1dc78/capsule_231x87.jpg?t=1781530157",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 30,
+      "prevRank": 2,
+      "delta": -28,
       "status": "falling",
       "series": [
         {
-          "date": "2026-09-11",
-          "rank": 40
-        },
-        {
-          "date": "2026-09-12",
-          "rank": 34
-        },
-        {
-          "date": "2026-09-13",
-          "rank": 26
-        },
-        {
-          "date": "2026-09-14",
-          "rank": 19
-        },
-        {
-          "date": "2026-09-15",
-          "rank": 12
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 10
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-20",
-          "rank": 5
-        },
-        {
           "date": "2026-09-21",
-          "rank": 5
+          "rank": 24
         },
         {
           "date": "2026-09-22",
-          "rank": 6
+          "rank": 13
         },
         {
           "date": "2026-09-23",
-          "rank": 3
+          "rank": 7
         },
         {
           "date": "2026-09-24",
-          "rank": 14
+          "rank": 3
         },
         {
           "date": "2026-09-25",
-          "rank": 16
+          "rank": 2
         },
         {
-          "date": "2026-09-30",
-          "rank": 42
+          "date": "2026-09-26",
+          "rank": 2
         },
         {
-          "date": "2026-10-01",
-          "rank": 44
+          "date": "2026-09-27",
+          "rank": 2
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 1
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 30
         }
       ]
     },
@@ -1529,7 +1548,7 @@
       "releaseDateISO": "2026-10-27",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2295170/ad089cece8b69edd93d675684bf48b244c06e461/capsule_231x87.jpg?t=1790684458",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295170/ad089cece8b69edd93d675684bf48b244c06e461/capsule_231x87.jpg?t=1790958987",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 9,
@@ -1612,19 +1631,132 @@
         {
           "date": "2026-10-01",
           "rank": 9
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "appid": 4968640,
+      "name": "Japanese Ramen Simulator",
+      "releaseDateRaw": "October 2026",
+      "releaseDateISO": "2026-10-28",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968640/c87a37a5d10a2ac11bf2ab4aded25ca9bc657e12/capsule_231x87.jpg?t=1790867392",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 4,
+      "prevRank": 1,
+      "delta": -3,
+      "status": "falling",
+      "series": [
+        {
+          "date": "2026-09-10",
+          "rank": 23
+        },
+        {
+          "date": "2026-09-11",
+          "rank": 18
+        },
+        {
+          "date": "2026-09-12",
+          "rank": 18
+        },
+        {
+          "date": "2026-09-13",
+          "rank": 17
+        },
+        {
+          "date": "2026-09-14",
+          "rank": 8
+        },
+        {
+          "date": "2026-09-15",
+          "rank": 7
+        },
+        {
+          "date": "2026-09-16",
+          "rank": 3
+        },
+        {
+          "date": "2026-09-17",
+          "rank": 3
+        },
+        {
+          "date": "2026-09-18",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-19",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-20",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-21",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-22",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-23",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-24",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-25",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 1
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 36
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 35
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 15
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 2
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 2
         }
       ]
     }
   ],
   "newcomers": [
     {
-      "appid": 4989520,
-      "name": "Immortal Zenith: Idle to Ascension",
+      "appid": 3212940,
+      "name": "Meteor Raiders",
       "releaseDateRaw": "Oct 2, 2026",
       "releaseDateISO": "2026-10-02",
       "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989520/244a67af555e6b962397c993050ec51a38ff5c2a/capsule_231x87.jpg?t=1790811278",
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212940/9ae3df46d4ae884a1cdc54f6725d0b10aed66221/capsule_231x87.jpg?t=1790531763",
       "tagId": 1716,
       "tagName": "Roguelike",
       "rank": 2,
@@ -1633,45 +1765,16 @@
       "status": "new",
       "series": [
         {
-          "date": "2026-09-28",
-          "rank": 46
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 11
-        },
-        {
           "date": "2026-09-30",
-          "rank": 2
+          "rank": 12
         },
         {
           "date": "2026-10-01",
-          "rank": 2
-        }
-      ]
-    },
-    {
-      "appid": 4666490,
-      "name": "Beautiful Spores",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4666490/c31e1cc91b7d0515a51533adc06314ff910aab00/capsule_231x87.jpg?t=1789766905",
-      "tagId": 1716,
-      "tagName": "Roguelike",
-      "rank": 3,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-30",
-          "rank": 11
+          "rank": 4
         },
         {
-          "date": "2026-10-01",
-          "rank": 3
+          "date": "2026-10-02",
+          "rank": 2
         }
       ]
     },
@@ -1682,10 +1785,10 @@
       "releaseDateISO": "2026-10-14",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2929250/36a5e318291b96b49df81d3d5de731b19c094a2b/capsule_231x87.jpg?t=1790589234",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/36a5e318291b96b49df81d3d5de731b19c094a2b/capsule_231x87.jpg?t=1790589234",
       "tagId": 492,
       "tagName": "Indie",
-      "rank": 4,
+      "rank": 3,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -1709,31 +1812,10 @@
         {
           "date": "2026-10-01",
           "rank": 4
-        }
-      ]
-    },
-    {
-      "appid": 3212940,
-      "name": "Meteor Raiders",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3212940/9ae3df46d4ae884a1cdc54f6725d0b10aed66221/capsule_231x87.jpg?t=1790531763",
-      "tagId": 1716,
-      "tagName": "Roguelike",
-      "rank": 4,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-30",
-          "rank": 12
         },
         {
-          "date": "2026-10-01",
-          "rank": 4
+          "date": "2026-10-02",
+          "rank": 3
         }
       ]
     },
@@ -1744,10 +1826,10 @@
       "releaseDateISO": "2026-10-07",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3561610/e95d85374029e901af2c1b3f1f91f324b0efe037/capsule_231x87.jpg?t=1790659103",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561610/e95d85374029e901af2c1b3f1f91f324b0efe037/capsule_231x87.jpg?t=1790659103",
       "tagId": 1716,
       "tagName": "Roguelike",
-      "rank": 5,
+      "rank": 3,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -1759,230 +1841,10 @@
         {
           "date": "2026-10-01",
           "rank": 5
-        }
-      ]
-    },
-    {
-      "appid": 3737680,
-      "name": "Bloodspill",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3737680/d6eaeff74fbbd0642ab1d9aa7ce4a21048d0a00c/capsule_231x87.jpg?t=1790850881",
-      "tagId": 492,
-      "tagName": "Indie",
-      "rank": 6,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-14",
-          "rank": 42
         },
         {
-          "date": "2026-09-15",
-          "rank": 36
-        },
-        {
-          "date": "2026-09-16",
-          "rank": 33
-        },
-        {
-          "date": "2026-09-17",
-          "rank": 29
-        },
-        {
-          "date": "2026-09-18",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-19",
-          "rank": 23
-        },
-        {
-          "date": "2026-09-20",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-21",
-          "rank": 20
-        },
-        {
-          "date": "2026-09-22",
-          "rank": 17
-        },
-        {
-          "date": "2026-09-23",
-          "rank": 13
-        },
-        {
-          "date": "2026-09-24",
-          "rank": 11
-        },
-        {
-          "date": "2026-09-25",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 5
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 6
-        },
-        {
-          "date": "2026-09-28",
+          "date": "2026-10-02",
           "rank": 3
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 3
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 4
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 3
-        }
-      ]
-    },
-    {
-      "appid": 4094350,
-      "name": "Online: 404",
-      "releaseDateRaw": "Oct 16, 2026",
-      "releaseDateISO": "2026-10-16",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4094350/17bdb8d4411cd33e68737f5fe9f6dddb0688cf83/capsule_231x87.jpg?t=1790773577",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 6,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-25",
-          "rank": 45
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 45
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 42
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 33
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 28
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 7
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 6
-        }
-      ]
-    },
-    {
-      "appid": 3785860,
-      "name": "Mycopsychosys: Project Jupiter",
-      "releaseDateRaw": "Oct 5, 2026",
-      "releaseDateISO": "2026-10-05",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3785860/4ef68342632b80ded508266c88470315affd25d8/capsule_231x87.jpg?t=1790140947",
-      "tagId": 122,
-      "tagName": "RPG",
-      "rank": 7,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-25",
-          "rank": 31
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 21
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 15
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 13
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 7
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 7
-        }
-      ]
-    },
-    {
-      "appid": 3785860,
-      "name": "Mycopsychosys: Project Jupiter",
-      "releaseDateRaw": "Oct 5, 2026",
-      "releaseDateISO": "2026-10-05",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3785860/4ef68342632b80ded508266c88470315affd25d8/capsule_231x87.jpg?t=1790140947",
-      "tagId": 492,
-      "tagName": "Indie",
-      "rank": 7,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-25",
-          "rank": 31
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 24
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 21
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 15
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 13
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 7
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 7
         }
       ]
     },
@@ -1993,10 +1855,10 @@
       "releaseDateISO": "2026-10-05",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5256950/f0c215e56baf901046ce7e899b6aed8b30d7fb50/capsule_231x87.jpg?t=1790768050",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256950/f0c215e56baf901046ce7e899b6aed8b30d7fb50/capsule_231x87.jpg?t=1790768050",
       "tagId": 1716,
       "tagName": "Roguelike",
-      "rank": 7,
+      "rank": 5,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -2008,47 +1870,59 @@
         {
           "date": "2026-10-01",
           "rank": 7
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 5
         }
       ]
     },
     {
-      "appid": 5005870,
-      "name": "Cash & Chaos",
-      "releaseDateRaw": "Oct 1, 2026",
-      "releaseDateISO": "2026-10-01",
+      "appid": 3785860,
+      "name": "Mycopsychosys: Project Jupiter",
+      "releaseDateRaw": "Oct 5, 2026",
+      "releaseDateISO": "2026-10-05",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5005870/4954ed2441c24edfa55bcc8eecef8f9c90414a96/capsule_231x87.jpg?t=1790728219",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 8,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785860/4ef68342632b80ded508266c88470315affd25d8/capsule_231x87.jpg?t=1790140947",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 6,
       "prevRank": null,
       "delta": null,
       "status": "new",
       "series": [
         {
-          "date": "2026-09-26",
-          "rank": 40
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 39
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 34
-        },
-        {
-          "date": "2026-09-29",
+          "date": "2026-09-25",
           "rank": 31
         },
         {
+          "date": "2026-09-26",
+          "rank": 24
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 21
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 15
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 13
+        },
+        {
           "date": "2026-09-30",
-          "rank": 11
+          "rank": 7
         },
         {
           "date": "2026-10-01",
-          "rank": 8
+          "rank": 7
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 6
         }
       ]
     },
@@ -2059,10 +1933,10 @@
       "releaseDateISO": "2026-10-12",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080520/866648af73e2b28f71a7bb722953a8acf65f2ec9/capsule_231x87.jpg?t=1790144843",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080520/866648af73e2b28f71a7bb722953a8acf65f2ec9/capsule_231x87.jpg?t=1790144843",
       "tagId": 1716,
       "tagName": "Roguelike",
-      "rank": 8,
+      "rank": 6,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -2094,6 +1968,39 @@
         {
           "date": "2026-10-01",
           "rank": 8
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "appid": 5280030,
+      "name": "The Road Remembers",
+      "releaseDateRaw": "Oct 6, 2026",
+      "releaseDateISO": "2026-10-06",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280030/319776e7f04dcdce28391532eb850200e1e6dab5/capsule_231x87.jpg?t=1790728483",
+      "tagId": 1716,
+      "tagName": "Roguelike",
+      "rank": 7,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-30",
+          "rank": 19
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 11
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 7
         }
       ]
     },
@@ -2104,10 +2011,10 @@
       "releaseDateISO": "2026-12-28",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5160800/3dec380fa3c66a40ffc1d36be2ac518cf9dcda05/capsule_231x87.jpg?t=1790467021",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/3dec380fa3c66a40ffc1d36be2ac518cf9dcda05/capsule_231x87.jpg?t=1790467021",
       "tagId": 492,
       "tagName": "Indie",
-      "rank": 9,
+      "rank": 8,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -2135,6 +2042,10 @@
         {
           "date": "2026-10-01",
           "rank": 9
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 8
         }
       ]
     },
@@ -2145,10 +2056,10 @@
       "releaseDateISO": "2026-10-15",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3845070/2fbcc91eca3082934c220512cce2490fc85207d9/capsule_231x87.jpg?t=1790856657",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/2fbcc91eca3082934c220512cce2490fc85207d9/capsule_231x87.jpg?t=1790856657",
       "tagId": 1716,
       "tagName": "Roguelike",
-      "rank": 9,
+      "rank": 8,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -2160,39 +2071,10 @@
         {
           "date": "2026-10-01",
           "rank": 9
-        }
-      ]
-    },
-    {
-      "appid": 4989520,
-      "name": "Immortal Zenith: Idle to Ascension",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
-      "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4989520/244a67af555e6b962397c993050ec51a38ff5c2a/capsule_231x87.jpg?t=1790811278",
-      "tagId": 122,
-      "tagName": "RPG",
-      "rank": 10,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-28",
-          "rank": 46
         },
         {
-          "date": "2026-09-29",
-          "rank": 11
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 2
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 2
+          "date": "2026-10-02",
+          "rank": 8
         }
       ]
     },
@@ -2203,10 +2085,10 @@
       "releaseDateISO": "2026-10-08",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/395519d87cc923a64bfa8834b02efb3c4ac8a565/capsule_231x87.jpg?t=1790865583",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/395519d87cc923a64bfa8834b02efb3c4ac8a565/capsule_231x87.jpg?t=1790865583",
       "tagId": 492,
       "tagName": "Indie",
-      "rank": 10,
+      "rank": 9,
       "prevRank": null,
       "delta": null,
       "status": "new",
@@ -2218,17 +2100,145 @@
         {
           "date": "2026-10-01",
           "rank": 10
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 9
         }
       ]
     },
     {
-      "appid": 4955350,
-      "name": "Face Your Fate",
-      "releaseDateRaw": "Oct 6, 2026",
-      "releaseDateISO": "2026-10-06",
+      "appid": 5257350,
+      "name": "Hex Reverse",
+      "releaseDateRaw": "Oct 7, 2026",
+      "releaseDateISO": "2026-10-07",
+      "priceCents": 0,
+      "priceText": "Free",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5257350/956c4a8b6489eec17df3a848a2a57cbe2b9a4a4c/capsule_231x87.jpg?t=1790058611",
+      "tagId": 1716,
+      "tagName": "Roguelike",
+      "rank": 9,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-30",
+          "rank": 20
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 12
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "appid": 4401480,
+      "name": "Rorasuketo",
+      "releaseDateRaw": "Oct 2, 2026",
+      "releaseDateISO": "2026-10-02",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4955350/1888ea898d894780194f89ab569cdded1d9a00e8/capsule_231x87.jpg?t=1790227063",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401480/048469bd08e5f25a9322c195cac714a7b1c76049/capsule_231x87.jpg?t=1790651027",
+      "tagId": 122,
+      "tagName": "RPG",
+      "rank": 10,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-30",
+          "rank": 41
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 18
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "appid": 3419140,
+      "name": "Stickility",
+      "releaseDateRaw": "Oct 5, 2026",
+      "releaseDateISO": "2026-10-05",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419140/63680c58528a999b03b44fcc59c9eb6e24b6588a/capsule_231x87.jpg?t=1790697987",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 10,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-30",
+          "rank": 21
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 15
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "appid": 5284210,
+      "name": "Maybe Hero",
+      "releaseDateRaw": "Oct 7, 2026",
+      "releaseDateISO": "2026-10-07",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284210/b2dbb54e4c52619f592c0ee2dc56bc568057055c/capsule_231x87.jpg?t=1790783856",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 10,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-28",
+          "rank": 41
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 38
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 18
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 13
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "appid": 5031520,
+      "name": "Endless Bonds",
+      "releaseDateRaw": "Oct 7, 2026",
+      "releaseDateISO": "2026-10-07",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031520/01e7a4b244865067fbbadd5db0af5adf53e60d24/capsule_231x87.jpg?t=1787931368",
       "tagId": 1716,
       "tagName": "Roguelike",
       "rank": 10,
@@ -2238,22 +2248,26 @@
       "series": [
         {
           "date": "2026-09-30",
-          "rank": 18
+          "rank": 21
         },
         {
           "date": "2026-10-01",
+          "rank": 13
+        },
+        {
+          "date": "2026-10-02",
           "rank": 10
         }
       ]
     },
     {
-      "appid": 4956970,
-      "name": "Chalk Paper Scissors",
+      "appid": 3212940,
+      "name": "Meteor Raiders",
       "releaseDateRaw": "Oct 2, 2026",
       "releaseDateISO": "2026-10-02",
       "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4956970/54c3524870ef66bda1fafdf27d35bcda5361eb28/capsule_231x87.jpg?t=1787963282",
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3212940/9ae3df46d4ae884a1cdc54f6725d0b10aed66221/capsule_231x87.jpg?t=1790531763",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 11,
@@ -2263,11 +2277,15 @@
       "series": [
         {
           "date": "2026-09-30",
-          "rank": 15
+          "rank": 12
         },
         {
           "date": "2026-10-01",
-          "rank": 11
+          "rank": 4
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 2
         }
       ]
     },
@@ -2278,7 +2296,7 @@
       "releaseDateISO": "2026-10-27",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2295170/ad089cece8b69edd93d675684bf48b244c06e461/capsule_231x87.jpg?t=1790684458",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295170/ad089cece8b69edd93d675684bf48b244c06e461/capsule_231x87.jpg?t=1790958987",
       "tagId": 492,
       "tagName": "Indie",
       "rank": 11,
@@ -2361,62 +2379,21 @@
         {
           "date": "2026-10-01",
           "rank": 9
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 9
         }
       ]
     },
     {
-      "appid": 4080520,
-      "name": "Horns of Deliverance",
-      "releaseDateRaw": "Oct 12, 2026",
-      "releaseDateISO": "2026-10-12",
+      "appid": 5248170,
+      "name": "Killpath",
+      "releaseDateRaw": "Oct 7, 2026",
+      "releaseDateISO": "2026-10-07",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080520/866648af73e2b28f71a7bb722953a8acf65f2ec9/capsule_231x87.jpg?t=1790144843",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 11,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-25",
-          "rank": 43
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 44
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 44
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 39
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 36
-        },
-        {
-          "date": "2026-09-30",
-          "rank": 16
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 8
-        }
-      ]
-    },
-    {
-      "appid": 5280030,
-      "name": "The Road Remembers",
-      "releaseDateRaw": "Oct 6, 2026",
-      "releaseDateISO": "2026-10-06",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5280030/319776e7f04dcdce28391532eb850200e1e6dab5/capsule_231x87.jpg?t=1790728483",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5248170/ba03a50e7be52fb8d0177d47e07e4c58315409c6/capsule_231x87.jpg?t=1789740920",
       "tagId": 1716,
       "tagName": "Roguelike",
       "rank": 11,
@@ -2426,22 +2403,26 @@
       "series": [
         {
           "date": "2026-09-30",
-          "rank": 19
+          "rank": 23
         },
         {
           "date": "2026-10-01",
+          "rank": 15
+        },
+        {
+          "date": "2026-10-02",
           "rank": 11
         }
       ]
     },
     {
-      "appid": 5149410,
-      "name": "Nova Slash",
-      "releaseDateRaw": "Oct 1, 2026",
-      "releaseDateISO": "2026-10-01",
+      "appid": 2967950,
+      "name": "The Witch's Bakery",
+      "releaseDateRaw": "Oct 14, 2026",
+      "releaseDateISO": "2026-10-14",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5149410/fa1ef7d93900837f7d63d66cdaa65a7578383468/capsule_231x87.jpg?t=1790726696",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2967950/b6d0cb065ec2cd15bc0b0967c5ee3ec5cac345d4/capsule_231x87.jpg?t=1790870091",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 12,
@@ -2450,93 +2431,48 @@
       "status": "new",
       "series": [
         {
-          "date": "2026-09-30",
-          "rank": 35
-        },
-        {
           "date": "2026-10-01",
-          "rank": 12
-        }
-      ]
-    },
-    {
-      "appid": 3412490,
-      "name": "Obstacle Overdrive",
-      "releaseDateRaw": "Oct 2, 2026",
-      "releaseDateISO": "2026-10-02",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3412490/d41bb23e52aa2cfad947311f60102853a7d6a799/capsule_231x87.jpg?t=1790868209",
-      "tagId": 492,
-      "tagName": "Indie",
-      "rank": 12,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-30",
-          "rank": 18
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 12
-        }
-      ]
-    },
-    {
-      "appid": 2688780,
-      "name": "Odd Town",
-      "releaseDateRaw": "Oct 15, 2026",
-      "releaseDateISO": "2026-10-15",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2688780/356a1cfdbd9105ff203fc5f5eae45c90da61e82a/capsule_231x87.jpg?t=1790250381",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 12,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-25",
-          "rank": 44
-        },
-        {
-          "date": "2026-09-26",
-          "rank": 46
-        },
-        {
-          "date": "2026-09-27",
-          "rank": 45
-        },
-        {
-          "date": "2026-09-28",
-          "rank": 40
-        },
-        {
-          "date": "2026-09-29",
-          "rank": 37
-        },
-        {
-          "date": "2026-09-30",
           "rank": 17
         },
         {
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "rank": 12
         }
       ]
     },
     {
-      "appid": 5257350,
-      "name": "Hex Reverse",
+      "appid": 3768400,
+      "name": "Gridlords",
       "releaseDateRaw": "Oct 7, 2026",
       "releaseDateISO": "2026-10-07",
       "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5257350/956c4a8b6489eec17df3a848a2a57cbe2b9a4a4c/capsule_231x87.jpg?t=1790058611",
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768400/c22decd1eace9e57ad8411f822cd3393fa4197f7/capsule_231x87.jpg?t=1790177037",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 12,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-10-01",
+          "rank": 39
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "appid": 5285560,
+      "name": "Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home",
+      "releaseDateRaw": "Oct 6, 2026",
+      "releaseDateISO": "2026-10-06",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285560/cbc8ed043e4b5c5992b7871e6d5c6a3a6b39df20/capsule_231x87.jpg?t=1790796726",
       "tagId": 1716,
       "tagName": "Roguelike",
       "rank": 12,
@@ -2546,22 +2482,26 @@
       "series": [
         {
           "date": "2026-09-30",
-          "rank": 20
+          "rank": 25
         },
         {
           "date": "2026-10-01",
+          "rank": 16
+        },
+        {
+          "date": "2026-10-02",
           "rank": 12
         }
       ]
     },
     {
-      "appid": 4762810,
-      "name": "SpyCat: Codename Wu",
-      "releaseDateRaw": "Oct 1, 2026",
-      "releaseDateISO": "2026-10-01",
+      "appid": 1965550,
+      "name": "Wildaria",
+      "releaseDateRaw": "Oct 8, 2026",
+      "releaseDateISO": "2026-10-08",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4762810/da513ba276de8db53f655f0c1053d7874725026a/capsule_231x87.jpg?t=1790739334",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965550/f65b23d6bd50a5fd8e34cea148615332abae50a2/capsule_231x87.jpg?t=1790096767",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 13,
@@ -2571,22 +2511,26 @@
       "series": [
         {
           "date": "2026-09-30",
-          "rank": 36
+          "rank": 43
         },
         {
           "date": "2026-10-01",
+          "rank": 20
+        },
+        {
+          "date": "2026-10-02",
           "rank": 13
         }
       ]
     },
     {
-      "appid": 5026630,
-      "name": "Opi Popi",
-      "releaseDateRaw": "Oct 1, 2026",
-      "releaseDateISO": "2026-10-01",
+      "appid": 3115160,
+      "name": "Warhammer 40,000: Boltgun 2",
+      "releaseDateRaw": "Oct 14, 2026",
+      "releaseDateISO": "2026-10-14",
       "priceCents": 0,
-      "priceText": "Free",
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5026630/6f9df1cfbc6a33bd6051223877932e256c5416dd/capsule_231x87.jpg?t=1786670651",
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115160/a41870d91ff8f8e27b95c9f8aec1b2bfc357f1e3/capsule_231x87.jpg?t=1790785313",
       "tagId": 492,
       "tagName": "Indie",
       "rank": 13,
@@ -2595,56 +2539,83 @@
       "status": "new",
       "series": [
         {
-          "date": "2026-09-30",
-          "rank": 19
-        },
-        {
-          "date": "2026-10-01",
-          "rank": 13
-        }
-      ]
-    },
-    {
-      "appid": 5284210,
-      "name": "Maybe Hero",
-      "releaseDateRaw": "Oct 7, 2026",
-      "releaseDateISO": "2026-10-07",
-      "priceCents": 0,
-      "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5284210/b2dbb54e4c52619f592c0ee2dc56bc568057055c/capsule_231x87.jpg?t=1790783856",
-      "tagId": 1663,
-      "tagName": "FPS",
-      "rank": 13,
-      "prevRank": null,
-      "delta": null,
-      "status": "new",
-      "series": [
-        {
-          "date": "2026-09-28",
+          "date": "2026-09-10",
           "rank": 41
         },
         {
+          "date": "2026-09-11",
+          "rank": 40
+        },
+        {
+          "date": "2026-09-12",
+          "rank": 42
+        },
+        {
+          "date": "2026-09-13",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-14",
+          "rank": 35
+        },
+        {
+          "date": "2026-09-15",
+          "rank": 32
+        },
+        {
+          "date": "2026-09-16",
+          "rank": 36
+        },
+        {
+          "date": "2026-09-17",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-24",
+          "rank": 48
+        },
+        {
+          "date": "2026-09-25",
+          "rank": 42
+        },
+        {
+          "date": "2026-09-26",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 43
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 37
+        },
+        {
           "date": "2026-09-29",
-          "rank": 38
+          "rank": 33
         },
         {
           "date": "2026-09-30",
-          "rank": 18
+          "rank": 12
         },
         {
           "date": "2026-10-01",
-          "rank": 13
+          "rank": 7
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 6
         }
       ]
     },
     {
-      "appid": 5031520,
-      "name": "Endless Bonds",
-      "releaseDateRaw": "Oct 7, 2026",
-      "releaseDateISO": "2026-10-07",
+      "appid": 3749130,
+      "name": "Tower Tactics II",
+      "releaseDateRaw": "Oct 8, 2026",
+      "releaseDateISO": "2026-10-08",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5031520/01e7a4b244865067fbbadd5db0af5adf53e60d24/capsule_231x87.jpg?t=1787931368",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749130/e46d570c48278322ecb6740cd46f4745cae79054/capsule_231x87.jpg?t=1790765640",
       "tagId": 1716,
       "tagName": "Roguelike",
       "rank": 13,
@@ -2654,22 +2625,26 @@
       "series": [
         {
           "date": "2026-09-30",
-          "rank": 21
+          "rank": 22
         },
         {
           "date": "2026-10-01",
+          "rank": 14
+        },
+        {
+          "date": "2026-10-02",
           "rank": 13
         }
       ]
     },
     {
-      "appid": 5223280,
-      "name": "THE MIDNIGHT QUEENS 2",
-      "releaseDateRaw": "Oct 1, 2026",
-      "releaseDateISO": "2026-10-01",
+      "appid": 4459980,
+      "name": "Catventure",
+      "releaseDateRaw": "Oct 4, 2026",
+      "releaseDateISO": "2026-10-04",
       "priceCents": 0,
       "priceText": null,
-      "capsule": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5223280/b01456efbad12ff0d5529d12f5d90bea6c2713b1/capsule_231x87.jpg?t=1790379171",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459980/4f014569a6aef01ed0f9c2d4cd1f9569a16d1705/capsule_231x87.jpg?t=1789983280",
       "tagId": 122,
       "tagName": "RPG",
       "rank": 14,
@@ -2678,12 +2653,157 @@
       "status": "new",
       "series": [
         {
-          "date": "2026-09-30",
+          "date": "2026-10-01",
+          "rank": 22
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "appid": 4699770,
+      "name": "Babel Legacy",
+      "releaseDateRaw": "Oct 7, 2026",
+      "releaseDateISO": "2026-10-07",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699770/d1b1768174a679272c1666eb902ab297d73f128d/capsule_231x87.jpg?t=1790749541",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 14,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-10-01",
           "rank": 37
         },
         {
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "rank": 14
+        }
+      ]
+    },
+    {
+      "appid": 5298330,
+      "name": "Footage: FLIR",
+      "releaseDateRaw": "Oct 8, 2026",
+      "releaseDateISO": "2026-10-08",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298330/4865dc5ac2e181207935fb4b11e41f792fa1cef5/capsule_231x87.jpg?t=1790658488",
+      "tagId": 1663,
+      "tagName": "FPS",
+      "rank": 14,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-26",
+          "rank": 49
+        },
+        {
+          "date": "2026-09-27",
+          "rank": 49
+        },
+        {
+          "date": "2026-09-28",
+          "rank": 45
+        },
+        {
+          "date": "2026-09-29",
+          "rank": 42
+        },
+        {
+          "date": "2026-09-30",
+          "rank": 22
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 17
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "appid": 4148630,
+      "name": "Dragon Dinner",
+      "releaseDateRaw": "Oct 8, 2026",
+      "releaseDateISO": "2026-10-08",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148630/7e1165a179962c92f90875e6f36bd71e0efe2bf0/capsule_231x87.jpg?t=1790879308",
+      "tagId": 1716,
+      "tagName": "Roguelike",
+      "rank": 14,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-09-30",
+          "rank": 24
+        },
+        {
+          "date": "2026-10-01",
+          "rank": 17
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "appid": 3470960,
+      "name": "Tales of Eternia Remastered",
+      "releaseDateRaw": "Oct 15, 2026",
+      "releaseDateISO": "2026-10-15",
+      "priceCents": 0,
+      "priceText": null,
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470960/21ef3b5cc2964971d83b1c9957d557a0a8a5a680/capsule_231x87.jpg?t=1784005616",
+      "tagId": 122,
+      "tagName": "RPG",
+      "rank": 15,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-10-01",
+          "rank": 21
+        },
+        {
+          "date": "2026-10-02",
+          "rank": 15
+        }
+      ]
+    },
+    {
+      "appid": 5230410,
+      "name": "Factorized",
+      "releaseDateRaw": "Oct 2, 2026",
+      "releaseDateISO": "2026-10-02",
+      "priceCents": 0,
+      "priceText": "Free",
+      "capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230410/e1b139a144150ec338f11d6747c0d004bf5a3efb/capsule_231x87.jpg?t=1790717542",
+      "tagId": 492,
+      "tagName": "Indie",
+      "rank": 15,
+      "prevRank": null,
+      "delta": null,
+      "status": "new",
+      "series": [
+        {
+          "date": "2026-10-02",
+          "rank": 15
         }
       ]
     }
